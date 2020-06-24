@@ -1,0 +1,1 @@
+To run this script you need a chromedriver.exe
