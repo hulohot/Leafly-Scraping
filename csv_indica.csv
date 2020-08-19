@@ -1,565 +1,100 @@
-strain_name,strain_variant,strain_url
-Purple Punch,Sleepy,https://www.leafly.com/strains/purple-punch
-Granddaddy Purple,Sleepy,https://www.leafly.com/strains/granddaddy-purple
-Zkittlez,Relaxed,https://www.leafly.com/strains/zkittlez
-Northern Lights,Sleepy,https://www.leafly.com/strains/northern-lights
-Do-Si-Dos,Relaxed,https://www.leafly.com/strains/do-si-dos
-Bubba Kush,Sleepy,https://www.leafly.com/strains/bubba-kush
-Forbidden Fruit,Relaxed,https://www.leafly.com/strains/forbidden-fruit
-Mendo Breath,Sleepy,https://www.leafly.com/strains/mendo-breath
-9 Pound Hammer,Sleepy,https://www.leafly.com/strains/9-pound-hammer
-Blueberry,Sleepy,https://www.leafly.com/strains/blueberry
-Ice Cream Cake,Tingly,https://www.leafly.com/strains/ice-cream-cake
-Grape Ape,Sleepy,https://www.leafly.com/strains/grape-ape
-Blue Cheese,Sleepy,https://www.leafly.com/strains/blue-cheese
-King Louis XIII,Sleepy,https://www.leafly.com/strains/king-louis
-Master Kush,Sleepy,https://www.leafly.com/strains/master-kush
-GMO Cookies,Relaxed,https://www.leafly.com/strains/gmo-cookies
-Purple Kush,Sleepy,https://www.leafly.com/strains/purple-kush
-G13,Euphoric,https://www.leafly.com/strains/g-13
-LA Confidential,Sleepy,https://www.leafly.com/strains/la-confidential
-Platinum OG,Sleepy,https://www.leafly.com/strains/platinum-og
-Berry White,Talkative,https://www.leafly.com/strains/berry-white
-Cookies Kush,Sleepy,https://www.leafly.com/strains/cookies-kush
-Kosher Kush,Sleepy,https://www.leafly.com/strains/kosher-kush
-Critical Kush,Sleepy,https://www.leafly.com/strains/critical-kush
-White Rhino,Sleepy,https://www.leafly.com/strains/white-rhino
-Slurricane,Relaxed,https://www.leafly.com/strains/slurricane
-Blackberry Kush,Sleepy,https://www.leafly.com/strains/blackberry-kush
-Afghan Kush,Hungry,https://www.leafly.com/strains/afghan-kush
-God's Gift,Sleepy,https://www.leafly.com/strains/gods-gift
-Platinum Kush,Hungry,https://www.leafly.com/strains/platinum-kush
-Purple Urkle,Sleepy,https://www.leafly.com/strains/purple-urkle
-Death Star,Sleepy,https://www.leafly.com/strains/death-star
-Hindu Kush,Sleepy,https://www.leafly.com/strains/hindu-kush
-Black Diamond,Hungry,https://www.leafly.com/strains/black-diamond
-Blueberry Kush,Sleepy,https://www.leafly.com/strains/blueberry-kush
-Critical Mass,Sleepy,https://www.leafly.com/strains/critical-mass
-Afghani,Sleepy,https://www.leafly.com/strains/afghani
-True OG,Sleepy,https://www.leafly.com/strains/true-og
-Papaya,Sleepy,https://www.leafly.com/strains/papaya
-MK Ultra,Sleepy,https://www.leafly.com/strains/mk-ultra
-Platinum Bubba Kush,Hungry,https://www.leafly.com/strains/platinum-bubba-kush
-Orange Kush,Hungry,https://www.leafly.com/strains/orange-kush
-Super Skunk,Hungry,https://www.leafly.com/strains/super-skunk
-Watermelon,Sleepy,https://www.leafly.com/strains/watermelon
-Death Bubba,Sleepy,https://www.leafly.com/strains/death-bubba
-Diamond OG,Sleepy,https://www.leafly.com/strains/diamond-og
-Sensi Star,Sleepy,https://www.leafly.com/strains/sensi-star
-Monster Cookies,Sleepy,https://www.leafly.com/strains/monster-cookies
-Blackwater,Sleepy,https://www.leafly.com/strains/blackwater
-Godfather OG,Sleepy,https://www.leafly.com/strains/godfather-og
-Shishkaberry,Sleepy,https://www.leafly.com/strains/shishkaberry
-Mango,Hungry,https://www.leafly.com/strains/mango
-Triangle Kush,Tingly,https://www.leafly.com/strains/triangle-kush
-Mr. Nice,Sleepy,https://www.leafly.com/strains/mr-nice
-Romulan,Sleepy,https://www.leafly.com/strains/romulan
-Rockstar,Sleepy,https://www.leafly.com/strains/rockstar
-Obama Kush,Relaxed,https://www.leafly.com/strains/obama-kush
-God Bud,Sleepy,https://www.leafly.com/strains/god-bud
-Blue Zkittlez,Aroused,https://www.leafly.com/strains/blue-zkittlez
-Sweet Tooth,Euphoric,https://www.leafly.com/strains/sweet-tooth
-White Tahoe Cookies,Aroused,https://www.leafly.com/strains/white-tahoe-cookies
-Northern Hashplant,Relaxed,https://www.leafly.com/strains/northern-hashplant
-JGR,Relaxed,https://www.leafly.com/strains/jr
-XXX OG,Sleepy,https://www.leafly.com/strains/xxx-og
-Nuken,Relaxed,https://www.leafly.com/strains/nuken
-Black Domina,Sleepy,https://www.leafly.com/strains/black-domina
-Star Killer,Sleepy,https://www.leafly.com/strains/star-killer
-Remedy,Relaxed,https://www.leafly.com/strains/remedy
-Pennywise,Relaxed,https://www.leafly.com/strains/pennywise
-Big Bud,Sleepy,https://www.leafly.com/strains/big-bud
-Hash Plant,Sleepy,https://www.leafly.com/strains/hash-plant
-Pre-98 Bubba Kush,Sleepy,https://www.leafly.com/strains/pre-98-bubba-kush
-Alien Dawg,Sleepy,https://www.leafly.com/strains/alien-dawg
-Face Off OG,Sleepy,https://www.leafly.com/strains/face-off-og
-Strawberry Shortcake,Creative,https://www.leafly.com/strains/strawberry-shortcake
-King's Kush,Sleepy,https://www.leafly.com/strains/king-kush
-Lavender,Sleepy,https://www.leafly.com/strains/lavender
-3X Crazy,Relaxed,https://www.leafly.com/strains/3x-crazy
-Bubblegum Kush,Hungry,https://www.leafly.com/strains/bubblegum-kush
-Strawberry Cheesecake,Hungry,https://www.leafly.com/strains/strawberry-cheesecake
-Not Found,Not Found,Not Found
-Sunset,Tingly,https://www.leafly.com/strains/sunset
-Purple OG Kush,Hungry,https://www.leafly.com/strains/purple-og-kush
-Not Found,Not Found,Not Found
-Paris OG,Sleepy,https://www.leafly.com/strains/paris-og
-Pink Panties,Relaxed,https://www.leafly.com/strains/pink-panties
-Peyote Cookies,Relaxed,https://www.leafly.com/strains/peyote-cookies
-Presidential OG,Sleepy,https://www.leafly.com/strains/presidential-og
-Diablo,Tingly,https://www.leafly.com/strains/diablo
-Zombie Kush,Sleepy,https://www.leafly.com/strains/zombie-kush
-Black Mamba,Sleepy,https://www.leafly.com/strains/black-mamba
-Bubba OG,Hungry,https://www.leafly.com/strains/bubba-og
-Purple Candy,Sleepy,https://www.leafly.com/strains/purple-candy
-Afgoo,Sleepy,https://www.leafly.com/strains/afgoo
-Violator Kush,Sleepy,https://www.leafly.com/strains/violator-kush
-Vanilla Kush,Sleepy,https://www.leafly.com/strains/vanilla-kush
-Yoda OG,Sleepy,https://www.leafly.com/strains/yoda-og
-Legend OG,Relaxed,https://www.leafly.com/strains/legend-og
-Jesus OG,Focused,https://www.leafly.com/strains/jesus-og
-El Chapo OG,Sleepy,https://www.leafly.com/strains/el-chapo-og
-SFV OG Kush,Sleepy,https://www.leafly.com/strains/sfv-og-kush
-Not Found,Not Found,Not Found
-Pure Kush,Sleepy,https://www.leafly.com/strains/pure-kush
-Purple Chemdawg,Euphoric,https://www.leafly.com/strains/purple-chemdawg
-Phantom OG,Giggly,https://www.leafly.com/strains/phantom-og
-Purple Hindu Kush,Sleepy,https://www.leafly.com/strains/purple-hindu-kush
-Hardcore OG,Relaxed,https://www.leafly.com/strains/hardcore-og
-Platinum Purple Kush,Sleepy,https://www.leafly.com/strains/platinum-purple-kush
-Snoop Dogg OG,Hungry,https://www.leafly.com/strains/snoop-dogg-og
-Purple Dragon,Hungry,https://www.leafly.com/strains/purple-dragon
-Ace of Spades,Sleepy,https://www.leafly.com/strains/ace-of-spades
-Herijuana,Sleepy,https://www.leafly.com/strains/herojuana
-Dark Star,Sleepy,https://www.leafly.com/strains/dark-star
-Black D.O.G.,Sleepy,https://www.leafly.com/strains/black-dog
-Ayahuasca Purple,Tingly,https://www.leafly.com/strains/ayahuasca-purple
-Donkey Butter,Happy,https://www.leafly.com/strains/donkey-butter
-Green Poison,Hungry,https://www.leafly.com/strains/green-poison
-Alien Kush,Tingly,https://www.leafly.com/strains/alien-kush
-Sugar Black Rose,Sleepy,https://www.leafly.com/strains/sugar-black-rose
-Shark Shock,Relaxed,https://www.leafly.com/strains/shark-shock
-Raspberry Kush,Sleepy,https://www.leafly.com/strains/raspberry-kush
-DJ Short Blueberry,Sleepy,https://www.leafly.com/strains/dj-short-blueberry
-Willy's Wonder,Euphoric,https://www.leafly.com/strains/willys-wonder
-Black Cherry OG,Tingly,https://www.leafly.com/strains/black-cherry-og
-Rollex OG Kush,Hungry,https://www.leafly.com/strains/rollex-og-kush
-Zombie OG,Sleepy,https://www.leafly.com/strains/zombie-og
-Pink Champagne,Relaxed,https://www.leafly.com/strains/pink-champagne
-CBD Critical Mass,Relaxed,https://www.leafly.com/strains/cbd-critical-mass
-Abusive OG,Sleepy,https://www.leafly.com/strains/abusive-og
-Cream Caramel,Sleepy,https://www.leafly.com/strains/cream-caramel
-Cookie Monster,Hungry,https://www.leafly.com/strains/cookie-monster
-Chocolate Kush,Relaxed,https://www.leafly.com/strains/chocolate-kush
-Tangerine Kush,Sleepy,https://www.leafly.com/strains/tangerine-kush
-Chemo,Sleepy,https://www.leafly.com/strains/chemo
-The Black,Sleepy,https://www.leafly.com/strains/the-black
-Not Found,Not Found,Not Found
-Jedi Kush,Tingly,https://www.leafly.com/strains/jedi-kush
-Black Lime Special Reserve,Euphoric,https://www.leafly.com/strains/black-lime-special-reserve
-Somango,Focused,https://www.leafly.com/strains/somango
-Plushberry,Relaxed,https://www.leafly.com/strains/plushberry
-Incredible Bulk,Sleepy,https://www.leafly.com/strains/incredible-bulk
-Blue God,Sleepy,https://www.leafly.com/strains/blue-god
-Tuna Kush,Sleepy,https://www.leafly.com/strains/tuna-kush
-Not Found,Not Found,Not Found
-Silverback Gorilla,Sleepy,https://www.leafly.com/strains/silverback-gorilla
-Money Maker,Sleepy,https://www.leafly.com/strains/money-maker
-8 Ball Kush,Relaxed,https://www.leafly.com/strains/8-ball-kush
-Sweet and Sour Widow,Relaxed,https://www.leafly.com/strains/sweet-and-sour-widow
-White Berry,Aroused,https://www.leafly.com/strains/white-berry
-Strawberry Fields,Relaxed,https://www.leafly.com/strains/strawberry-fields
-Mars OG,Sleepy,https://www.leafly.com/strains/mars-og
-Blue Mystic,Tingly,https://www.leafly.com/strains/blue-mystic
-Lee Roy,Relaxed,https://www.leafly.com/strains/lee-roy
-Aurora Indica,Sleepy,https://www.leafly.com/strains/aurora-indica
-Goo,Hungry,https://www.leafly.com/strains/goo
-Mazar I Sharif,Sleepy,https://www.leafly.com/strains/mazar-i-sharif
-Kushberry,Hungry,https://www.leafly.com/strains/kushberry
-Kryptonite,Sleepy,https://www.leafly.com/strains/kryptonite
-Gobbstopper,Sleepy,https://www.leafly.com/strains/gobbstopper
-Blue Diamond,Sleepy,https://www.leafly.com/strains/blue-diamond
-Not Found,Not Found,Not Found
-Mag Landrace,Sleepy,https://www.leafly.com/strains/mag-landrace
-Afgooey,Sleepy,https://www.leafly.com/strains/afgooey
-Purple Panty Dropper,Aroused,https://www.leafly.com/strains/purple-panty-dropper
-Purple Monkey Balls,Giggly,https://www.leafly.com/strains/purple-monkey-balls
-Bakerstreet,Relaxed,https://www.leafly.com/strains/bakerstreet
-Darth Vader OG,Sleepy,https://www.leafly.com/strains/darth-vader-og
-3 Bears OG,Aroused,https://www.leafly.com/strains/3-bears-og
-Pine Tar Kush,Hungry,https://www.leafly.com/strains/pine-tar-kush
-Superman OG,Sleepy,https://www.leafly.com/strains/superman-og
-Mother of Berries,Sleepy,https://www.leafly.com/strains/mother-of-berries
-Pakistani Chitral Kush,Relaxed,https://www.leafly.com/strains/pakistani-chitral-kush
-Whitewalker OG,Sleepy,https://www.leafly.com/strains/whitewalker-og
-Death Star OG,Sleepy,https://www.leafly.com/strains/deathstar-og
-Shiva Skunk,Sleepy,https://www.leafly.com/strains/shiva-skunk
-Alien Bubba,Relaxed,https://www.leafly.com/strains/alien-bubba
-Buddha's Sister,Sleepy,https://www.leafly.com/strains/buddhas-sister
-Candy Cane,Hungry,https://www.leafly.com/strains/candy-cane
-Night Terror OG,Sleepy,https://www.leafly.com/strains/night-terror-og
-Mandarin Sunset,Aroused,https://www.leafly.com/strains/mandarin-sunset
-Green Love Potion,Aroused,https://www.leafly.com/strains/green-love-potion
-Frosty,Happy,https://www.leafly.com/strains/frosty
-Extreme Cream,Hungry,https://www.leafly.com/strains/extreme-cream
-Kashmir Kush,Focused,https://www.leafly.com/strains/kashmir-kush
-White OG,Euphoric,https://www.leafly.com/strains/white-og
-Grandpaâ€™s Breath,Relaxed,https://www.leafly.com/strains/grandpas-breath
-El Jefe,Tingly,https://www.leafly.com/strains/el-jeffe
-Rockstar Kush,Hungry,https://www.leafly.com/strains/rockstar-kush
-The Hog,Sleepy,https://www.leafly.com/strains/hog
-Not Found,Not Found,Not Found
-Afghan Skunk,Sleepy,https://www.leafly.com/strains/afghan-skunk
-Purple Berry,Hungry,https://www.leafly.com/strains/purple-berry
-Cornbread,Hungry,https://www.leafly.com/strains/cornbread
-Mataro Blue,Tingly,https://www.leafly.com/strains/mataro-blue
-Katsu Bubba Kush,Relaxed,https://www.leafly.com/strains/katsu-bubba-kush
-Sirius Black,Relaxed,https://www.leafly.com/strains/sirius-black
-White Fire 43,Hungry,https://www.leafly.com/strains/white-fire-43
-Sunshine Daydream,Tingly,https://www.leafly.com/strains/sunshine-daydream
-Power Kush,Sleepy,https://www.leafly.com/strains/power-kush
-Northern Lights #5,Euphoric,https://www.leafly.com/strains/northern-lights--5
-Recon,Euphoric,https://www.leafly.com/strains/recon
-Pot of Gold,Hungry,https://www.leafly.com/strains/pot-of-gold
-Master OG,Hungry,https://www.leafly.com/strains/master-og
-Alien Rift,Hungry,https://www.leafly.com/strains/alien-rift
-Not Found,Not Found,Not Found
-Purple Afghani,Sleepy,https://www.leafly.com/strains/purple-afghani
-Gas Mask,Tingly,https://www.leafly.com/strains/gas-mask
-Purple Passion,Sleepy,https://www.leafly.com/strains/purple-passion
-Grape Inferno,Sleepy,https://www.leafly.com/strains/grape-inferno
-Honey Boo Boo,Aroused,https://www.leafly.com/strains/honey-boo-boo
-Blueberry Skunk,Giggly,https://www.leafly.com/strains/blueberry-skunk
-Not Found,Not Found,Not Found
-Butter OG,Sleepy,https://www.leafly.com/strains/butter-og
-Cactus,Tingly,https://www.leafly.com/strains/cactus
-Blue Knight,Relaxed,https://www.leafly.com/strains/blue-knight
-Yeti OG,Relaxed,https://www.leafly.com/strains/yeti-og
-Bubba's Gift,Relaxed,https://www.leafly.com/strains/bubbas-gift
-Not Found,Not Found,Not Found
-Tyson,Sleepy,https://www.leafly.com/strains/tyson
-Querkle,Sleepy,https://www.leafly.com/strains/querkle
-Jah Goo,Sleepy,https://www.leafly.com/strains/jah-goo
-Lime Sorbet,Relaxed,https://www.leafly.com/strains/lime-sorbet
-CBD Shark,Relaxed,https://www.leafly.com/strains/cbd-shark
-Salmon River OG,Relaxed,https://www.leafly.com/strains/salmon-river-og
-5th Element,Aroused,https://www.leafly.com/strains/5th-element
-Super Kush,Happy,https://www.leafly.com/strains/super-kush
-Ancient OG,Hungry,https://www.leafly.com/strains/ancient-og
-Blood Orange Kush,Tingly,https://www.leafly.com/strains/blood-orange-kush
-Pink Death Star,Tingly,https://www.leafly.com/strains/pink-death-star
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Pink Bubba,Sleepy,https://www.leafly.com/strains/pink-bubba
-Rose Bud,Creative,https://www.leafly.com/strains/rose-bud
-Gooberry,Aroused,https://www.leafly.com/strains/gooberry
-Church OG,Sleepy,https://www.leafly.com/strains/church-og
-Tiger's Milk,Euphoric,https://www.leafly.com/strains/tigers-milk
-Night Nurse,Sleepy,https://www.leafly.com/strains/night-nurse
-Flo OG,Relaxed,https://www.leafly.com/strains/flo-og
-Crown Royale,Hungry,https://www.leafly.com/strains/crown-royale
-Fucking Incredible,Tingly,https://www.leafly.com/strains/fucking-incredible
-Burkle,Sleepy,https://www.leafly.com/strains/burkle
-CBD Critical Cure,Relaxed,https://www.leafly.com/strains/cbd-critical-cure
-Purple Cream,Hungry,https://www.leafly.com/strains/purple-cream
-Queen Mother Goji,Tingly,https://www.leafly.com/strains/queen-mother-goji
-Grandmaâ€™s Sugar Cookies,Giggly,https://www.leafly.com/strains/grandmas-sugar-cookies
-Chocolate OG,Hungry,https://www.leafly.com/strains/chocolate-og
-Popcorn Kush,Hungry,https://www.leafly.com/strains/popcorn-kush
-LA OG,Tingly,https://www.leafly.com/strains/la-og
-818 OG,Relaxed,https://www.leafly.com/strains/818-og
-Sugar Kush,Sleepy,https://www.leafly.com/strains/sugar-kush
-Purple Bubba,Tingly,https://www.leafly.com/strains/purple-bubba
-Godzilla,Euphoric,https://www.leafly.com/strains/godzilla
-Not Found,Not Found,Not Found
-Rare Dankness #1,Giggly,https://www.leafly.com/strains/rare-dankness-1
-303 OG,Relaxed,https://www.leafly.com/strains/303-og
-Double OG,Sleepy,https://www.leafly.com/strains/double-og
-Golden State Banana,Hungry,https://www.leafly.com/strains/golden-state-banana
-Green Kush,Sleepy,https://www.leafly.com/strains/green-kush
-Not Found,Not Found,Not Found
-Grape Cookies,Tingly,https://www.leafly.com/strains/grape-cookies
-Locomotion,Relaxed,https://www.leafly.com/strains/locomotion
-Yumboldt,Sleepy,https://www.leafly.com/strains/yumboldt
-Dynamite,Hungry,https://www.leafly.com/strains/dynamite
-Oregon Diesel,Happy,https://www.leafly.com/strains/oregon-diesel
-Devil Fruit,Tingly,https://www.leafly.com/strains/devil-fruit
-The Doctor,Giggly,https://www.leafly.com/strains/the-doctor
-Jupiter OG,Sleepy,https://www.leafly.com/strains/jupiter-og
-Ace Killer OG,Sleepy,https://www.leafly.com/strains/ace-killer-og
-Chocolate Chunk,Sleepy,https://www.leafly.com/strains/chocolate-chunk
-Not Found,Not Found,Not Found
-Papa's OG,Sleepy,https://www.leafly.com/strains/papas-og
-Cuvee,Giggly,https://www.leafly.com/strains/cuvee
-Rare Darkness,Sleepy,https://www.leafly.com/strains/rare-darkness
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Chronic Thunder,Sleepy,https://www.leafly.com/strains/chronic-thunder
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Buddha Tahoe,Relaxed,https://www.leafly.com/strains/buddha-tahoe
-Moonbeam,Hungry,https://www.leafly.com/strains/moonbeam
-Not Found,Not Found,Not Found
-Emerald OG,Relaxed,https://www.leafly.com/strains/emerald-og
-Snow Monster,Giggly,https://www.leafly.com/strains/snow-monster
-Ray Charles,Sleepy,https://www.leafly.com/strains/ray-charles
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Banana Hammock R1,Hungry,https://www.leafly.com/strains/banana-hammock-r1
-Black Russian,Sleepy,https://www.leafly.com/strains/black-russian
-Sour Bubble,Sleepy,https://www.leafly.com/strains/sour-bubble
-Big Bang,Sleepy,https://www.leafly.com/strains/big-bang
-M-39,Hungry,https://www.leafly.com/strains/m-39
-Hashberry,Hungry,https://www.leafly.com/strains/hashberry
-Argyle,Happy,https://www.leafly.com/strains/argyle
-Chem Scout,Relaxed,https://www.leafly.com/strains/chem-scout
-Funky Monkey,Giggly,https://www.leafly.com/strains/funky-monkey
-Triple Cheese,Euphoric,https://www.leafly.com/strains/triple-cheese
-Not Found,Not Found,Not Found
-Grape Krush,Sleepy,https://www.leafly.com/strains/grape-krush
-Gumbo,Sleepy,https://www.leafly.com/strains/gumbo
-Not Found,Not Found,Not Found
-Crown OG,Sleepy,https://www.leafly.com/strains/crown-og
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Cherry Kola,Hungry,https://www.leafly.com/strains/cherry-kola
-Blue Moonshine,Aroused,https://www.leafly.com/strains/blue-moonshine
-Frankenstein,Sleepy,https://www.leafly.com/strains/frankenstein
-Master Bubba,Sleepy,https://www.leafly.com/strains/master-bubba
-Conspiracy Kush,Sleepy,https://www.leafly.com/strains/conspiracy-kush
-Primus,Happy,https://www.leafly.com/strains/primus
-Blue Lights,Euphoric,https://www.leafly.com/strains/blue-lights
-Blue Power,Euphoric,https://www.leafly.com/strains/blue-power
-Not Found,Not Found,Not Found
-Flowerbomb Kush,Relaxed,https://www.leafly.com/strains/flowerbomb-kush
-White Kush,Sleepy,https://www.leafly.com/strains/white-kush
-Grandpa Larry OG,Sleepy,https://www.leafly.com/strains/grandpa-larry-og
-Enemy of the State,Relaxed,https://www.leafly.com/strains/enemy-of-the-state
-Endless Sky,Sleepy,https://www.leafly.com/strains/endless-sky
-Not Found,Not Found,Not Found
-Afghani Bullrider,Tingly,https://www.leafly.com/strains/afgahni-bullrider
-Maple Leaf Indica,Giggly,https://www.leafly.com/strains/maple-leaf-indica
-Freezeland,Hungry,https://www.leafly.com/strains/freezeland
-Dr. Funk,Aroused,https://www.leafly.com/strains/dr-funk
-B-52,Sleepy,https://www.leafly.com/strains/b-52
-Purple Bud,Sleepy,https://www.leafly.com/strains/purple-bud
-Blackberry Cream,Happy,https://www.leafly.com/strains/blackberry-cream
-Green Dragon,Relaxed,https://www.leafly.com/strains/green-dragon
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Blue Steel,Relaxed,https://www.leafly.com/strains/blue-steel
-Pez,Hungry,https://www.leafly.com/strains/pez
-Critical Sensi Star,Relaxed,https://www.leafly.com/strains/critical-sensi-star
-Blue Alien,Sleepy,https://www.leafly.com/strains/blue-alien
-Brandywine,Tingly,https://www.leafly.com/strains/brandywine
-Stephen Hawking Kush,Relaxed,https://www.leafly.com/strains/stephen-hawking-kush
-Purple Goo,Tingly,https://www.leafly.com/strains/purple-goo
-Black Ice,Sleepy,https://www.leafly.com/strains/black-ice
-Not Found,Not Found,Not Found
-Northern Berry,Sleepy,https://www.leafly.com/strains/northernberry
-Dank Schrader,Aroused,https://www.leafly.com/strains/dank-schrader
-Corleone Kush,Sleepy,https://www.leafly.com/strains/corleone-kush
-Gigabud,Hungry,https://www.leafly.com/strains/gigabud
-Not Found,Not Found,Not Found
-Woody Kush,Sleepy,https://www.leafly.com/strains/woody-kush
-Not Found,Not Found,Not Found
-Anesthesia,Sleepy,https://www.leafly.com/strains/anesthesia
-Hog's Breath,Giggly,https://www.leafly.com/strains/hogs-breath
-Purple Elephant,Giggly,https://www.leafly.com/strains/purple-elephant
-Ingrid,Sleepy,https://www.leafly.com/strains/ingrid
-Brand X,Hungry,https://www.leafly.com/strains/brand-x
-Not Found,Not Found,Not Found
-A-10,Creative,https://www.leafly.com/strains/a-10
-Satellite OG,Tingly,https://www.leafly.com/strains/satellite-og
-Not Found,Not Found,Not Found
-Early Girl,Giggly,https://www.leafly.com/strains/early-girl
-Sour Bubba,Happy,https://www.leafly.com/strains/sour-bubba
-Commerce City Kush,Sleepy,https://www.leafly.com/strains/commerce-city-kush
-Purple Wreck,Sleepy,https://www.leafly.com/strains/purple-wreck
-Cadillac Purple,Sleepy,https://www.leafly.com/strains/cadillac-purple
-Godberry,Sleepy,https://www.leafly.com/strains/godberry
-Pure OG,Sleepy,https://www.leafly.com/strains/pure-og
-Not Found,Not Found,Not Found
-Nordle,Relaxed,https://www.leafly.com/strains/nordle
-Purple Star,Tingly,https://www.leafly.com/strains/purple-star
-Not Found,Not Found,Not Found
-Butterscotch,Giggly,https://www.leafly.com/strains/butterscotch
-Not Found,Not Found,Not Found
-Black Afghan,Sleepy,https://www.leafly.com/strains/black-afghan
-Blue Afghani,Tingly,https://www.leafly.com/strains/blue-afghani
-Critical Hog,Relaxed,https://www.leafly.com/strains/critical-hog
-Not Found,Not Found,Not Found
-Deep Sleep,Sleepy,https://www.leafly.com/strains/deep-sleep
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Sweet Black Angel,Sleepy,https://www.leafly.com/strains/sweet-black-angel
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Northern Wreck,Tingly,https://www.leafly.com/strains/northern-wreck
-Holland's Hope,Hungry,https://www.leafly.com/strains/hollands-hope
-Purple Mr. Nice,Sleepy,https://www.leafly.com/strains/purple-mr-nice
-Gorilla Biscuit,Hungry,https://www.leafly.com/strains/gorilla-biscuit
-91 Krypt,Relaxed,https://www.leafly.com/strains/91-krypt
-Redwood Kush,Sleepy,https://www.leafly.com/strains/redwood-kush
-Tora Bora,Relaxed,https://www.leafly.com/strains/tora-bora
-Black Label Kush,Tingly,https://www.leafly.com/strains/black-label-kush
-Super Cheese,Hungry,https://www.leafly.com/strains/super-cheese
-Eran Almog,Sleepy,https://www.leafly.com/strains/eran-almog
-Illuminati OG,Tingly,https://www.leafly.com/strains/illuminati-og
-LA Ultra,Tingly,https://www.leafly.com/strains/la-ultra
-Not Found,Not Found,Not Found
-Blue Monster,Hungry,https://www.leafly.com/strains/blue-monster
-Kraken,Sleepy,https://www.leafly.com/strains/kraken
-Fruity Chronic Juice,Talkative,https://www.leafly.com/strains/fruity-chronic-juice
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Hawaiian Purple Kush,Giggly,https://www.leafly.com/strains/hawaiian-purple-kush
-Pitbull,Tingly,https://www.leafly.com/strains/pitbull
-Barbara Bud,Sleepy,https://www.leafly.com/strains/barbara-bud
-Pluto Kush,Sleepy,https://www.leafly.com/strains/pluto-kush
-Hindu Skunk,Euphoric,https://www.leafly.com/strains/hindu-skunk
-Banana Candy,Giggly,https://www.leafly.com/strains/banana-candy
-Dream Berry,Hungry,https://www.leafly.com/strains/dream-berry
-Confidential Cheese,Aroused,https://www.leafly.com/strains/confidential-cheese
-K-Train,Aroused,https://www.leafly.com/strains/k-train
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Jawa Pie,Relaxed,https://www.leafly.com/strains/jawa-pie
-Deep Purple,Sleepy,https://www.leafly.com/strains/deep-purple
-Not Found,Not Found,Not Found
-UW,Sleepy,https://www.leafly.com/strains/uw
-Not Found,Not Found,Not Found
-Grape Skunk,Happy,https://www.leafly.com/strains/grape-skunk
-Not Found,Not Found,Not Found
-Mazar Kush,Sleepy,https://www.leafly.com/strains/mazar-kush
-Not Found,Not Found,Not Found
-Snow Leopard,Euphoric,https://www.leafly.com/strains/snow-leopard
-Purple Nepal,Hungry,https://www.leafly.com/strains/purple-nepal
-Not Found,Not Found,Not Found
-Biochem,Tingly,https://www.leafly.com/strains/biochem
-Grand Doggy Purps,Relaxed,https://www.leafly.com/strains/grand-doggy-purps
-Double Purple Doja,Hungry,https://www.leafly.com/strains/double-purple-doja
-Mad Scientist,Sleepy,https://www.leafly.com/strains/mad-scientist
-OG LA Affie,Tingly,https://www.leafly.com/strains/og-la-affie
-Grape Valley Kush,Sleepy,https://www.leafly.com/strains/grape-valley-kush
-Pure Love,Relaxed,https://www.leafly.com/strains/pure-love
-Aurora Borealis,Sleepy,https://www.leafly.com/strains/aurora-borealis
-Afghan Big Bud,Happy,https://www.leafly.com/strains/afghan-big-bud
-Purple Buddha,Euphoric,https://www.leafly.com/strains/purple-buddha
-Not Found,Not Found,Not Found
-Goldberry,Creative,https://www.leafly.com/strains/goldberry
-Palm Tree CBD,Relaxed,https://www.leafly.com/strains/palm-tree-cbd
-Not Found,Not Found,Not Found
-Black Bubba,Tingly,https://www.leafly.com/strains/black-bubba
-Not Found,Not Found,Not Found
-Space Dawg,Euphoric,https://www.leafly.com/strains/space-dawg
-UltraViolet OG,Tingly,https://www.leafly.com/strains/ultraviolet-og
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Afghani CBD,Sleepy,https://www.leafly.com/strains/afghani-cbd
-Purple Cotton Candy,Relaxed,https://www.leafly.com/strains/purple-cotton-candy
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Love Potion #9,Giggly,https://www.leafly.com/strains/love-potion-9
-Black Magic Kush,Sleepy,https://www.leafly.com/strains/black-magic-kush
-Not Found,Not Found,Not Found
-Red Eye OG,Sleepy,https://www.leafly.com/strains/red-eye-og
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Flaming Cookies,Tingly,https://www.leafly.com/strains/flaming-cookies
-Not Found,Not Found,Not Found
-Misty Kush,Happy,https://www.leafly.com/strains/misty-kush
-Purple Cheddar,Euphoric,https://www.leafly.com/strains/purple-cheddar
-Not Found,Not Found,Not Found
-Sensi Skunk,Relaxed,https://www.leafly.com/strains/sensi-skunk
-Brains Damage,Sleepy,https://www.leafly.com/strains/brains-damage
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Rocklock,Creative,https://www.leafly.com/strains/rocklock
-Sweet Deep Grapefruit,Hungry,https://www.leafly.com/strains/sweet-deep-grapefruit
-StarBud,Sleepy,https://www.leafly.com/strains/starbud
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Blue Dynamite,Hungry,https://www.leafly.com/strains/blue-dynamite
-Dark Side of the Moon,Sleepy,https://www.leafly.com/strains/dark-side-of-the-moon
-Purple Happy Rancher,Sleepy,https://www.leafly.com/strains/purple-happy-rancher
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Training Day,Relaxed,https://www.leafly.com/strains/training-day
-Not Found,Not Found,Not Found
-Purple Martian Kush,Euphoric,https://www.leafly.com/strains/purple-martian-kush
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Skydog,Tingly,https://www.leafly.com/strains/skydog
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-American Kush,Tingly,https://www.leafly.com/strains/american-kush
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Master Jedi,Hungry,https://www.leafly.com/strains/master-jedi
-Not Found,Not Found,Not Found
-Buckeye Purple,Sleepy,https://www.leafly.com/strains/buckeye-purple
-The OX,Relaxed,https://www.leafly.com/strains/the-ox
-Pacific Blue,Tingly,https://www.leafly.com/strains/pacific-blue
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Liquid Butter,Sleepy,https://www.leafly.com/strains/liquid-butter
-Not Found,Not Found,Not Found
-Super Bud,Giggly,https://www.leafly.com/strains/super-bud
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Edelweiss,Hungry,https://www.leafly.com/strains/edelweiss
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Mercury OG,Giggly,https://www.leafly.com/strains/mercury-og
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Enigma,Hungry,https://www.leafly.com/strains/enigma
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Neptune OG,Focused,https://www.leafly.com/strains/neptune-og
-Sugar Mama,Aroused,https://www.leafly.com/strains/sugar-mama
-BC Sweet Tooth,Aroused,https://www.leafly.com/strains/bc-sweet-tooth
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Blackberry Rhino,Aroused,https://www.leafly.com/strains/blackberry-rhino
-Gravity,Aroused,https://www.leafly.com/strains/gravity
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Himalayan Blackberry,Tingly,https://www.leafly.com/strains/himalayan-blackberry
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Pure Afghan,Sleepy,https://www.leafly.com/strains/pure-afghan
-Blackberry x Blueberry,Relaxed,https://www.leafly.com/strains/blackberry-x-blueberry
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Grimace,Hungry,https://www.leafly.com/strains/grimace
-Kubbie Kush,Sleepy,https://www.leafly.com/strains/kubbie-kush
-Katsu Kush,Sleepy,https://www.leafly.com/strains/katsu-kush
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Danky Doodle,Aroused,https://www.leafly.com/strains/double-d
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Not Found,Not Found,Not Found
-Wonder Woman OG,Aroused,https://www.leafly.com/strains/wonderwoman-og
-Not Found,Not Found,Not Found
+category,name,variant,adj-1,adj-2,adj-3,description,image_url,feelings-1-name,feelings-1-percent,feelings-2-name,feelings-2-percent,feelings-3-name,feelings-3-percent,feelings-4-name,feelings-4-percent,feelings-5-name,feelings-5-percent,helps-with-1-name,helps-with-1-percent,helps-with-2-name,helps-with-2-percent,helps-with-3-name,helps-with-3-percent,helps-with-4-name,helps-with-4-percent,helps-with-5-name,helps-with-5-percent,negatives-1-name,negatives-1-percent,negatives-2-name,negatives-2-percent,negatives-3-name,negatives-3-percent,negatives-4-name,negatives-4-percent,negatives-5-name,negatives-5-percent
+Indica,Purple Punch,Relaxed,Peppery,Citrus,Pine,"Purple Punch is the sweet and sedating union of two indica-dominant classics. By breeding Larry OG with Granddaddy Purple, the astonishing trichome laden Purple Punch was born, smelling of grape candy, blueberry muffins, and tart Kool-Aid. The potency of this strain gives the consumer a one-two punch to the head and body, initially landing between the eyes and settling down into the limbs. Purple Punch is a delicious dessert strain that is best suited for after dinner. Its effects may help with managing nausea, stress, minor body aches, and sleeplessness.",null,Relaxed,81%,Happy,54%,Sleepy,45%,Euphoric,45%,Uplifted,30%,Stress,29%,Anxiety,29%,Insomnia,22%,Depression,22%,Pain,22%,Dry mouth,23%,Dry eyes,13%,Dizzy,6%,Anxious,3%,Headache,3%
+Indica,Granddaddy Purple,Sleepy,Herbal,Peppery,Pine,"Introduced in 2003 by Ken Estes, Granddaddy Purple (or GDP) is a famous indica cross of Purple Urkle and Big Bud. This California staple inherits a complex grape and berry aroma from its Purple Urkle parent, while Big Bud passes on its oversized, compact bud structure. GDP flowers bloom in shades of deep purple, a contrasting backdrop for its snow-like dusting of white crystal resin.",null,Relaxed,60%,Sleepy,49%,Happy,46%,Euphoric,44%,Hungry,33%,Stress,38%,Pain,33%,Anxiety,30%,Insomnia,30%,Depression,21%,Dry mouth,30%,Dry eyes,17%,Dizzy,7%,Paranoid,4%,Headache,3%
+Indica,Zkittlez,Relaxed,Peppery,Hoppy,Floral,"Zkittlez is an indica-dominant mix of Grape Ape and Grapefruit that is crossed with another undisclosed strain to produce this candy-flavored strain bred by 3rd Gen Family and Terp Hogz. This award-winning combination took 1st Place at the 2016 Emerald Cup and 1st Place Indica at the 2015 Cannabis Cups in San Francisco and in Michigan. The chunky colas explode in a spectrum of light green hues and emit a sweet, tropical blend of fruit flavors. The effects of Zkittlez are calming, leaving consumers focused, alert, and happy while relaxing the body to help unwind any time of day.",null,Relaxed,58%,Happy,41%,Euphoric,33%,Uplifted,28%,Sleepy,23%,Stress,20%,Anxiety,17%,Depression,16%,Pain,14%,Insomnia,11%,Dry mouth,19%,Dry eyes,10%,Dizzy,4%,Headache,3%,Anxious,2%
+Indica,Do-Si-Dos,Relaxed,Citrus,Peppery,Floral,"Do-Si-Dos is an indica-dominant hybrid with qualities similar to its parent, OGKB, a GSC-phenotype. With glittering trichomes, bright pistils, and lime green and lavender leaves, this strain is a feast for eyes. Its aroma is pungent, sweet, and earthy with slight floral funkiness. These classic OG aromas blend nicely with medical-grade body effects that lean toward the sedative side with the addition of Face Off OG genetics. Enjoy a stoney, in-your-face buzz off the start that melts down over the body, prettifying the consumer with relaxation that emanates outward. ",null,Relaxed,69%,Euphoric,44%,Happy,43%,Sleepy,34%,Uplifted,30%,Stress,27%,Anxiety,23%,Pain,21%,Insomnia,19%,Depression,17%,Dry mouth,19%,Dry eyes,11%,Dizzy,6%,Paranoid,2%,Anxious,2%
+Indica,Bubba Kush,Sleepy,Peppery,Citrus,Herbal,"Bubba Kush is an indica strain that has gained notoriety in the US and beyond for its heavy tranquilizing effects. Sweet hashish flavors with subtle notes of chocolate and coffee come through on the exhale, delighting the palate as powerful relaxation takes over. From head to toe, muscles ease with heaviness as dreamy euphoria blankets the mind, crushing stress while bringing happy moods. Bubba Kush exhibits a distinctive, bulky bud structure with hues that range from forest green to pale purple.",null,Relaxed,65%,Sleepy,54%,Happy,52%,Euphoric,46%,Hungry,37%,Stress,39%,Pain,35%,Insomnia,31%,Anxiety,29%,Depression,21%,Dry mouth,38%,Dry eyes,22%,Dizzy,9%,Paranoid,7%,Headache,4%
+Indica,Northern Lights,Sleepy,Herbal,Peppery,Citrus,"Northern Lights stands among the most famous strains of all time, a pure indica cherished for its resinous buds, fast flowering, and resilience during growth. Itself a descendant of indigenous Afghani and Thai landrace strains, Northern Lights has given rise to famous hybrids like Shiva Skunk and Super Silver Haze. Rumor has it that Northern Lights first sprouted near Seattle, Washington, but was propagated out of Holland after 1985 at what is now Sensi Seeds.",null,Relaxed,65%,Happy,53%,Euphoric,51%,Sleepy,43%,Uplifted,32%,Stress,41%,Pain,31%,Anxiety,30%,Insomnia,28%,Depression,24%,Dry mouth,33%,Dry eyes,17%,Dizzy,8%,Paranoid,5%,Headache,3%
+Indica,Ice Cream Cake,Tingly,Citrus,Peppery,Floral,"Bred by Seed Junky Genetics, Ice Cream Cake is an indica-dominant cross of Wedding Cake and Gelato #33. Completely flushed with icy trichomes, the buds express light green coloration with dark purple hues throughout. Ice Cream Cake maintains a creamy flavor profile with sweet hints of vanilla and sugary dough. Effects come on heavily, leaving you completely relaxed with a good night’s sleep soon to follow.",null,Relaxed,82%,Happy,50%,Euphoric,45%,Sleepy,44%,Uplifted,34%,Stress,23%,Pain,20%,Anxiety,19%,Depression,19%,Insomnia,15%,Dry mouth,15%,Dry eyes,9%,Dizzy,3%,Headache,2%,Paranoid,2%
+Indica,Forbidden Fruit,Relaxed,Herbal,Peppery,Citrus,"Forbidden Fruit is the mouthwatering cross of Cherry Pie x Tangie. This sumptuous genetic cross expresses a beautiful dense bud structure with deep purple hues, dark green foliage, and wiry orange hairs. The terpene profile is a perfect mixture of Cherry Pie’s musky, sweet cherry undertones and Tangie’s loud tropical flavors. There are also notes of pine, mango, and passionfruit candy. The effects hit hard between the eyes and lay into the body with each hit. Forbidden Fruit’s deep physical relaxation and mental stoniness make it perfect for dulling minor physical discomfort and discarding stress. ",null,Relaxed,75%,Happy,52%,Euphoric,43%,Sleepy,35%,Uplifted,30%,Stress,27%,Anxiety,24%,Pain,21%,Depression,19%,Insomnia,18%,Dry mouth,16%,Dry eyes,10%,Dizzy,1%,Headache,1%,Paranoid,1%
+Indica,GMO Cookies,Relaxed,Citrus,Peppery,Herbal,"GMO Cookies (aka Garlic Cookies) is a powerful indica-dominant strain crossed between Chemdog and GSC. GMO Cookies is known for its ability to relieve pain without putting you to bed in the process. The Chemdawg ancestry in GMO provides a petrol smell layered with coffee and fruit, while its GSC parentage provides a sweet and earthy flavor. GMO Cookies is bred by Divine Genetics.",null,Relaxed,81%,Euphoric,53%,Happy,52%,Uplifted,36%,Sleepy,31%,Pain,23%,Stress,21%,Anxiety,21%,Depression,16%,Insomnia,13%,Dry mouth,16%,Dizzy,5%,Dry eyes,5%,Anxious,3%,Paranoid,3%
+Indica,Mendo Breath,Sleepy,Peppery,Citrus,Herbal,"Mendo Breath is an interesting mix of OGKB (OGKushBreath, which is the supposed patriarch in the Cookies Fam genetics) and Mendo Montage. Their forces combined make dense frosty buds that reek of sweet vanilla and caramel. But no matter how good this smells, save it for after work. This thumper can pivot your entire day’s plans with its powerful body high built for chronic pain and discomfort. ",null,Relaxed,80%,Happy,51%,Sleepy,49%,Euphoric,46%,Uplifted,28%,Stress,38%,Pain,36%,Anxiety,32%,Insomnia,26%,Depression,23%,Dry mouth,25%,Dry eyes,11%,Dizzy,5%,Anxious,4%,Paranoid,3%
+Indica,Blueberry,Sleepy,Herbal,Pine,Peppery,"A true A-List cannabis strain, Blueberry’s legendary status soared to new heights after claiming the High Times’ Cannabis Cup 2000 for Best Indica. The long history of the strain goes back to the late 1970s when American breeder DJ Short was working with a variety of exotic landrace strains. However, throughout the decades of Blueberry’s cultivation, the genetics have been passed around, due in large part to DJ Short working with multiple seed banks and breeders. The sweet flavors of fresh blueberries combine with relaxing effects to produce a long-lasting sense of euphoria. Many consumers utilize Blueberry to help contend with pain and stress, while connoisseurs and growers admire the strain for its colorful hues and high THC content.",null,Relaxed,65%,Happy,56%,Euphoric,47%,Sleepy,41%,Uplifted,33%,Stress,40%,Pain,32%,Anxiety,29%,Insomnia,25%,Depression,23%,Dry mouth,30%,Dry eyes,18%,Dizzy,7%,Paranoid,4%,Headache,3%
+Indica,Blue Cheese,Sleepy,Herbal,Citrus,Peppery,"Blue Cheese is an indica cross created by crossing a Blueberry male with an original U.K. Cheese (a Skunk #1 phenotype) female. The sweet and savory smells of berry and blue cheese combine to create a creamy, unique flavor reminiscent of the original Cheese. The heavy effects will help you feel relaxed at the end of the day and can provide relief for muscle spasms, pain, and stress.",null,Relaxed,62%,Happy,55%,Euphoric,52%,Sleepy,38%,Uplifted,35%,Stress,41%,Pain,31%,Anxiety,30%,Insomnia,24%,Depression,24%,Dry mouth,36%,Dry eyes,21%,Dizzy,8%,Paranoid,5%,Headache,4%
+Indica,9 lb Hammer,Sleepy,Herbal,Pine,Peppery,"9 Pound Hammer is an indica created by JinxProof Genetics that crosses Gooberry, Hells OG, and Jack the Ripper. These dense buds are coated in resin, offering sweet grape and lime flavors. 9 Pound Hammer hosts a terpene profile abundant in myrcene, pinene, and caryophyllene with THC levels ranging between 17-21%. Effects can be heavy and long-lasting, making this strain useful for pain and stress relief. Best grown indoors, 9 Pound Hammer flowers between 50-60 days and will deliver high yields.",null,Relaxed,72%,Sleepy,52%,Happy,36%,Euphoric,34%,Hungry,21%,Pain,30%,Stress,30%,Insomnia,26%,Anxiety,24%,Depression,20%,Dry mouth,20%,Dry eyes,9%,Dizzy,4%,Headache,2%,Anxious,1%
+Indica,Platinum OG,Sleepy,Herbal,Peppery,Citrus,"Platinum OG is just as precious as the metal it’s named after. This indica-dominant hybrid asserts itself as one of the “heaviest” strains around. Platinum OG is purported to stem from three strains: Master Kush, OG Kush, and a third unknown parent. Flowers are lime green and plump, with prominent orange hairs and a platinum coating thanks to the abundance of THC crystals. A brief, heady onset settles into a powerful physical sedation suitable for nighttime use and pain, stress, or anxiety relief, making this precious strain a robust healer.",null,Relaxed,72%,Sleepy,50%,Euphoric,49%,Happy,46%,Hungry,31%,Stress,35%,Pain,29%,Anxiety,29%,Insomnia,28%,Depression,22%,Dry mouth,31%,Dry eyes,17%,Dizzy,7%,Paranoid,4%,Anxious,3%
+Indica,Grape Ape,Sleepy,Herbal,Pine,Peppery,"Grape Ape, propagated by Apothecary Genetics and Barney’s Farm, is a mostly indica strain that crosses Mendocino Purps, Skunk, and Afghani. Named for its distinct grape-like smell, this indica is known for providing carefree relaxation that can help soothe pain, stress, and anxiety. Its dense, compact buds are wreathed in deep purple leaves which darken as this indica reaches full maturation following its 7 to 8 week flowering time.",null,Relaxed,62%,Happy,49%,Sleepy,45%,Euphoric,44%,Hungry,28%,Pain,40%,Stress,37%,Anxiety,31%,Insomnia,31%,Depression,20%,Dry mouth,28%,Dry eyes,17%,Dizzy,6%,Paranoid,4%,Headache,3%
+Indica,King Louis,Sleepy,Citrus,Herbal,Peppery,"King Louis XIII might be most famous for making wigs on men de rigeur for the French aristocracy, but in Southern California the name will bring to mind a popular indica-dominant strain. This strain announces itself as many people did in the 1600s: by its smell. The difference is this monarch’s odor is one that’s meant to be enjoyed; its dense nugs have an overwhelmingly piney smell with an earthy musk that will have you thinking of your last forest adventure. Bred in part from OG Kush, Louis XIII has a very similar spicy kush aroma. ",null,Relaxed,64%,Sleepy,51%,Happy,37%,Euphoric,32%,Hungry,29%,Insomnia,34%,Stress,34%,Pain,32%,Anxiety,25%,Depression,21%,Dry mouth,22%,Dry eyes,12%,Dizzy,5%,Paranoid,3%,Headache,2%
+Indica,LA Confidential,Sleepy,Peppery,Citrus,Herbal,"LA Confidential is known as a very popular and successful strain. Its buds have a frosty, lime green appearance and little purple leaves. The taste is smooth and piney, with a classic skunky aroma that does not linger for too long. Overall, LA Confidential is a well-rounded strain that delivers a fast-approaching sensation that is both psychedelic and super calming on the mind and body. For newer patients seeking relief, LA Confidential can both lull you to sleep and treat acute pain. ",null,Relaxed,61%,Happy,50%,Euphoric,48%,Sleepy,43%,Uplifted,34%,Stress,42%,Pain,36%,Anxiety,31%,Insomnia,29%,Depression,23%,Dry mouth,30%,Dry eyes,18%,Dizzy,7%,Paranoid,6%,Headache,3%
+Indica,Master Kush,Sleepy,Peppery,Citrus,Herbal,"Master Kush is a popular indica cross from two landrace strains from different parts of the Hindu Kush region by the Dutch White Label Seed Company in Amsterdam. The plant produces a subtle earthy, citrus smell with a hint of incense, which is often described as a vintage flavor. The taste of Master Kush is reminiscent of the famous hard-rubbed charas hash. This strain holds a superb balance of full-body relaxation without mind-numbing effects. Instead, Master Kush offers a sharpened sensory awareness that can bring out the best of any activity.",null,Relaxed,65%,Happy,51%,Euphoric,50%,Sleepy,39%,Uplifted,36%,Stress,41%,Pain,33%,Anxiety,32%,Insomnia,27%,Depression,24%,Dry mouth,35%,Dry eyes,22%,Dizzy,7%,Paranoid,6%,Headache,3%
+Indica,G13,Euphoric,Herbal,Citrus,Peppery,"G13 is a very strong strain of cannabis indica that is the subject of many urban legends. According to some accounts, the CIA, FBI, and other agencies gathered the best strains of marijuana from breeders all over the world. At a super-secret installation at the University of Mississippi, they bred many new super hybrids in the late 1960s. Allegedly, a single cutting of this plant was liberated by an unnamed technician and bred for the masses.",null,Relaxed,59%,Euphoric,58%,Happy,57%,Uplifted,39%,Sleepy,33%,Stress,41%,Pain,32%,Anxiety,31%,Depression,25%,Insomnia,24%,Dry mouth,34%,Dry eyes,19%,Dizzy,8%,Paranoid,6%,Headache,4%
+Indica,Purple Kush,Sleepy,Herbal,Pine,Peppery,"Purple Kush is a pure indica strain that emerged from the Oakland area of California as the result of crossing Hindu Kush and Purple Afghani. Its aroma is subtle and earthy with sweet overtones typical of Kush varieties. Blissful, long-lasting euphoria blankets the mind while physical relaxation rids the body of pain, sleeplessness, and stress. Purple Kush will grow wide rather than tall, and will be ready for harvest following an 8-week flowering time.",null,Relaxed,62%,Sleepy,56%,Happy,55%,Euphoric,48%,Hungry,39%,Stress,44%,Pain,37%,Insomnia,37%,Anxiety,36%,Depression,24%,Dry mouth,42%,Dry eyes,26%,Paranoid,10%,Dizzy,10%,Headache,5%
+Indica,Platinum Kush,Hungry,Peppery,Citrus,Herbal,"Platinum Kush is an indica-dominant strain that takes on a platinum-silver shade due to its thick coat of crystal resin. With purple hues and bright orange hairs, its buds grow dense with a sweet fruity and hashy aroma. Its buzz has been described as strongly cerebral and body-numbing.",null,Relaxed,72%,Happy,54%,Euphoric,51%,Sleepy,41%,Hungry,35%,Stress,39%,Pain,32%,Anxiety,29%,Insomnia,24%,Depression,20%,Dry mouth,31%,Dry eyes,21%,Dizzy,6%,Paranoid,6%,Headache,3%
+Indica,White Rhino,Sleepy,Peppery,Herbal,Citrus,"White Rhino is a hybrid of White Widow and an unknown North American indica strain, resulting a bushy and stout plant. This strain is said to descend from cultivars sourced from Afghanistan, Brazil, and India. White Rhino's high THC content makes it a popular choice among consumers looking for heavy-handed relaxation and symptom relief.",null,Relaxed,58%,Happy,50%,Euphoric,47%,Sleepy,35%,Uplifted,32%,Stress,38%,Pain,32%,Anxiety,28%,Insomnia,23%,Depression,19%,Dry mouth,38%,Dry eyes,19%,Dizzy,8%,Headache,7%,Paranoid,7%
+Indica,Platinum Bubba Kush,Hungry,Peppery,Citrus,Herbal,"Platinum Bubba Kush is a “platinum” level indica-dominant strain for those who are looking for strong medicine. Best for strong body relaxation, pain relief, sleepiness and appetite stimulation, Pbk is a long-lasting “creeper” that may take a few minutes to kick in, but you won’t miss it once it does. Floral and full of kush spiciness in aroma, the flowers of this strain will have a surprisingly sweet flavor that’s a patient favorite. Across between Platinum OG Kush and Bubba Kush, this indica finishes flowering in 8 to 9 weeks. These dense, purple-hued nugs are popular in California and are finding their way to other areas.",null,Relaxed,72%,Happy,58%,Euphoric,48%,Sleepy,47%,Hungry,38%,Stress,43%,Pain,37%,Insomnia,35%,Anxiety,33%,Depression,25%,Dry mouth,32%,Dry eyes,19%,Dizzy,7%,Headache,5%,Paranoid,3%
+Indica,Blackberry Kush,Sleepy,Herbal,Citrus,Peppery,"Blackberry Kush is a indica-dominant strain often recommended for pain management thanks to its strong body high effects. This strain is a combination of Afghani and Blackberry and is marked by dense and beautiful nugs of purple and orange. Blackberry Kush has a hashy, jet fuel taste and aroma that is balanced by sweet berries. This strain takes approximately 7-8 to flower although it does not typically have a high yeild.",null,Relaxed,59%,Happy,47%,Sleepy,47%,Euphoric,45%,Hungry,29%,Stress,41%,Pain,37%,Insomnia,35%,Anxiety,33%,Depression,21%,Dry mouth,30%,Dry eyes,18%,Dizzy,5%,Headache,5%,Paranoid,3%
+Indica,Cookies Kush,Sleepy,Citrus,Peppery,Herbal,"Cookies Kush from Barney's Coffeeshop combines GSC with the Rolex phenotype of OG Kush, resulting in a potent indica worthy of 1st place in High Times' 2014 Amsterdam Cannabis Cup in the ""Best Coffeeshop Strain"" category.",null,Relaxed,80%,Happy,57%,Sleepy,50%,Euphoric,49%,Hungry,36%,Stress,35%,Anxiety,26%,Pain,23%,Insomnia,19%,Depression,18%,Dry mouth,31%,Dry eyes,23%,Dizzy,9%,Paranoid,4%,Anxious,2%
+Indica,Critical Kush,Sleepy,Herbal,Peppery,Citrus,"Critical Kush from Barney’s Farm is a mostly indica strain that blends together two famed cannabis staples, Critical Mass and OG Kush. Aromatic notes of earthiness and spice usher in a calming sensation that relaxes the mind and body. Critical Kush pairs a staggeringly high THC content with a moderate dose of CBD, making this strain a perfect nighttime medication for pain, stress, insomnia, and muscle spasms. Growers cultivating this strain indoors will wait 50 to 60 days for Critical Kush to complete its flowering cycle.",null,Relaxed,82%,Happy,56%,Sleepy,49%,Euphoric,42%,Uplifted,30%,Stress,36%,Pain,33%,Insomnia,28%,Depression,27%,Anxiety,27%,Dry mouth,33%,Dry eyes,20%,Dizzy,7%,Anxious,4%,Paranoid,3%
+Indica,Kosher Kush,Sleepy,Herbal,Citrus,Peppery,"Kosher Kush, offered now in seed form from DNA Genetics, originated in Los Angeles as a clone-only strain. Winner of High Times Cannabis Cup’s Best Indica in 2010 and 2011, as well as Best Strain in 2011, Kosher Kush produces staggering levels of THC. Known as one of the most odiferous OG Kush-related strains, it has a unique yet familiar smell reminiscent of rich earth and fruit, and is considered by many to be one of the tastiest smokes around. The high experienced is typical of many heavy strains, producing pronounced relaxation and pain relief, with sleep often following close behind.  ",null,Relaxed,68%,Sleepy,53%,Happy,46%,Euphoric,42%,Hungry,27%,Stress,35%,Insomnia,33%,Pain,32%,Anxiety,26%,Depression,21%,Dry mouth,29%,Dry eyes,15%,Dizzy,6%,Paranoid,3%,Anxious,1%
+Indica,XXX OG,Sleepy,Herbal,Citrus,Peppery,"XXX OG, from parent strains OG Kush and XXX, is an indica that took 1st place in the 2014 Los Angeles Cannabis Cup. Its bulky, conic buds glow with a heavy, white coat of oozing trichomes, emitting earthy, pine, and lemon notes that combine for a sap-like aroma. In small doses, XXX OG induces moderately sedating effects that allow some mental clarity and physical energy. As you increase the dose, the fight against lethargy and couchlock becomes futile. This makes XXX OG an excellent remedy for sleeplessness, and severe cases of nausea and chronic pain may benefit from the potent effects of this strain. ",null,Relaxed,72%,Sleepy,54%,Happy,48%,Euphoric,48%,Uplifted,31%,Stress,37%,Pain,35%,Insomnia,31%,Anxiety,30%,Depression,25%,Dry mouth,20%,Dry eyes,16%,Dizzy,4%,Headache,2%,Anxious,1%
+Indica,God's Gift,Sleepy,Herbal,Pine,Peppery,"A strain that became popular in California dispensaries in 2005, God's Gift contains flavors of grape, citrus, and hash. Its parents are Granddaddy Purple and OG Kush. No matter what your belief system, this strain is a ""gift"" with its dreamy, blissful effects. Its flowering time usually takes approximately 8-9 weeks.",null,Relaxed,64%,Happy,54%,Euphoric,48%,Sleepy,41%,Uplifted,34%,Stress,40%,Anxiety,33%,Pain,31%,Insomnia,28%,Depression,21%,Dry mouth,33%,Dry eyes,21%,Dizzy,6%,Paranoid,6%,Headache,4%
+Indica,Purple Urkle,Sleepy,Herbal,Pine,Peppery,"Purple Urkle’s history is as complex as its flavor palate. A California strain, the origins are believed to stem from a select phenotype of Mendocino Purps, while the essence is a blend of skunk, berry, and fresh grapes. Consumers report the effects to be deeply relaxing, sleep-inducing, and a great option for full-body pain relief. The short onset of effects make it a perfect nighttime strain for those who suffer from insomnia.",null,Relaxed,67%,Sleepy,64%,Happy,45%,Euphoric,43%,Hungry,33%,Stress,43%,Insomnia,43%,Pain,36%,Anxiety,34%,Depression,22%,Dry mouth,32%,Dry eyes,19%,Dizzy,7%,Paranoid,5%,Headache,3%
+Indica,Berry White,Talkative,Citrus,Pine,Peppery,"Berry White is a hybrid strain that is the offspring of parents of near-celebrity status in the cannabis world: Blueberry and White Widow. Berry is famous in its own right for its even, balanced effects that offer relaxation from stress and anxiety along with a sense of euphoria. This strain is perfect for inspiring an upbeat mood and may lead to conversation and creative pursuits. This plant’s flowers have a light sour berry and pine smell and a fresh taste similar to their scent. They generally have a strong blue coloring contrasted by orange hairs.",null,Relaxed,64%,Happy,58%,Euphoric,52%,Uplifted,44%,Creative,33%,Stress,33%,Anxiety,30%,Pain,26%,Depression,24%,Insomnia,17%,Dry mouth,28%,Dry eyes,16%,Paranoid,4%,Dizzy,3%,Anxious,3%
+Indica,Hindu Kush,Sleepy,Citrus,Peppery,Pine,"Hindu Kush is a pure indica strain named after the mountain range stretching 500 miles between Pakistan and Afghanistan where it originated. The harsh climate of its homeland has conditioned this strain to express a thick, protective coat of crystal trichomes cherished by hash makers worldwide. With a subtle sweet and earthy sandalwood aroma, Hindu Kush induces a deep sense of calm that helps bring relief to those suffering pain, nausea, and stress disorders.",null,Relaxed,65%,Sleepy,51%,Happy,48%,Euphoric,47%,Uplifted,31%,Stress,41%,Pain,37%,Insomnia,33%,Anxiety,32%,Depression,21%,Dry mouth,36%,Dry eyes,21%,Paranoid,8%,Dizzy,8%,Anxious,4%
+Indica,Afghani,Sleepy,Herbal,Pine,Minty,"Afghani is a heavy indica strain named after its geographic origin, where the earliest varieties of cannabis are believed to have grown. Breeders worldwide have come to treasure Afghani for its heavy resin production which is passed on genetically. With a sweet, earthy aroma, Afghani delivers a deep, sedating relaxation and euphoria. Patients most commonly turn to this potent indica to treat insomnia, pain, and stress disorders.",null,Relaxed,67%,Sleepy,56%,Happy,44%,Euphoric,43%,Hungry,30%,Stress,38%,Pain,37%,Insomnia,36%,Anxiety,32%,Depression,19%,Dry mouth,33%,Dry eyes,21%,Dizzy,9%,Headache,4%,Paranoid,3%
+Indica,Afghan Kush,Hungry,Herbal,Citrus,Peppery,"Afghan Kush's roots trace back to the Hindu Kush mountain range near the Afghanistan-Pakistan border. It has been perfected over centuries, making it the ultimate source for hash such as charas and the sticky black Afghani hash. White Label Seed Company, a Sensi Seeds partner from the Netherlands, made its seeds available for everyone to grow. The buds of Afghan Kush develop into massive, blunt-topped nuggets full of resin and coming in big yields. Revered for its heavy resin content and powerfully sedating effects, Afghan Kush is a top choice for anyone looking to relax after a long day.",null,Relaxed,52%,Sleepy,48%,Happy,46%,Hungry,43%,Euphoric,43%,Stress,40%,Pain,33%,Anxiety,32%,Insomnia,29%,Depression,21%,Dry mouth,46%,Dry eyes,30%,Dizzy,12%,Paranoid,9%,Headache,6%
+Indica,Death Star,Sleepy,Peppery,Herbal,Citrus,"Death Star is a potent cross of Sensi Star and Sour Diesel that combines sweet skunk and fuel aromas into a pungent fragrance that isn’t easy to hide. This strain may not have the ability to destroy planets, but it does have quite the powerful buzz. Effects can be slow to onset, but once they do, Death Star takes away all cares and replaces them with a state of relaxed euphoria. Great for daytime or nighttime use, this Ohio native now has fans throughout the galaxy.",null,Relaxed,71%,Euphoric,55%,Happy,50%,Sleepy,44%,Uplifted,34%,Stress,38%,Pain,35%,Anxiety,30%,Insomnia,27%,Depression,23%,Dry mouth,31%,Dry eyes,17%,Dizzy,8%,Paranoid,4%,Anxious,4%
+Indica,Obama Kush,Relaxed,Peppery,Citrus,Pine,"This unique indica-dominant strain appropriately channels the President’s famous message of ""Change"" as it invigorates and inspires. A cross between Afghani and OG Kush, Obama Kush offers cerebral stimulation and a euphoric rush. This strain is recommended for consumers looking for powerful physical effects as well as an intense cerebral lift. The flowers are frosty with a purple hue and reddish hairs, giving off a light aroma.",null,Relaxed,73%,Happy,57%,Euphoric,51%,Uplifted,38%,Sleepy,29%,Stress,38%,Pain,36%,Anxiety,29%,Depression,24%,Insomnia,22%,Dry mouth,28%,Dry eyes,10%,Dizzy,6%,Paranoid,4%,Anxious,2%
+Indica,Critical Mass,Sleepy,Herbal,Peppery,Citrus,"Critical Mass is a potent indica-dominant hybrid made by crossing Afghani and Skunk #1. In small doses, this strain will have you feeling creative and calm. In large doses, you'll likely find yourself feeling sleepy and in a couchlock. Critical mass gets its name because of its ability to reach ""critical mass"" in terms of growing. When growing, branches of this strain tend to snap off from the heavy weight of its buds - which are dense, heavy and tasty. The downside of Critical Mass is that this strain is particularly susceptible to mold, so growers have to be extra cautious with humidity. Flowering time for Critical Mass is approximately 6-8 weeks. This strain originated from the breeder Mr. Nice Seed Bank.",null,Relaxed,71%,Happy,49%,Euphoric,37%,Sleepy,37%,Uplifted,30%,Pain,40%,Stress,39%,Anxiety,29%,Depression,26%,Insomnia,24%,Dry mouth,30%,Dry eyes,18%,Dizzy,7%,Anxious,5%,Paranoid,5%
+Indica,MK Ultra,Sleepy,Peppery,Citrus,Herbal,"Named after the methods of mental manipulation employed by the CIA’s Project MKUltra, this indica-dominant strain stands apart due to its powerful cerebral effects. A cross of OG Kush and indica G13, this strain is bred by T.H. Seeds and won 1st place Indica at the High Times Cannabis Cup in 2003 and 2nd place in 2004. Indoor growing is facilitated by the plant’s short stature, and its above average yield delivers particularly sticky, dense, pungent flowers. MK Ultra is renowned for its euphoric effects that are fast-acting and best for when strong medication is desired. It might be best for a day when not getting off the couch would be fine.",null,Relaxed,73%,Sleepy,52%,Happy,51%,Euphoric,50%,Hungry,31%,Stress,41%,Pain,39%,Insomnia,33%,Anxiety,31%,Depression,24%,Dry mouth,38%,Dry eyes,18%,Dizzy,9%,Paranoid,5%,Anxious,3%
+Indica,Black Mamba,Sleepy,Citrus,Herbal,Peppery,"Black Mamba is named after the deadly African snake (or perhaps the vengeful bride from the movie Kill Bill), so it’s no surprise that this strain is known for being strong (it might just knock less experienced users into nap time). The genetics of this strain are unknown, but its characteristics seem to support the theory that it is a descendent of Granddaddy Purple and maybe Black Domina. These plants produce dark green to purple leaves, but it’s the flowers that appear after about 8 weeks that really give a hint to its supposed heritage. Dark green and dense, these hard nugs have a strong perfumey aroma and a distinctly sweet grape taste that is reminiscent of GDP. Many users report an upbeat feeling that mellows into a state of deep relaxation. Touted for its long-lasting effects, this Black Mamba is one to curl up with, not run away from.",null,Relaxed,74%,Sleepy,51%,Happy,48%,Euphoric,47%,Uplifted,31%,Stress,32%,Insomnia,31%,Pain,26%,Anxiety,23%,Depression,21%,Dry mouth,23%,Dry eyes,16%,Dizzy,4%,Headache,4%,Anxious,3%
+Indica,Orange Kush,Hungry,Fruity,Peppery,Herbal,"Orange Kush was bred by Green Devil Genetics and is the child of Orange Bud and OG Kush. It eases the body into relaxation while lifting moods with a sweet and tangy citrus flavor. This strain is resistant to most pests and mold and has long, dense buds with many orange hairs and trichome crystals.",null,Relaxed,63%,Happy,51%,Euphoric,45%,Sleepy,40%,Hungry,34%,Stress,37%,Anxiety,32%,Pain,26%,Insomnia,26%,Depression,20%,Dry mouth,39%,Dry eyes,21%,Dizzy,10%,Paranoid,9%,Headache,6%
+Indica,Diamond OG,Sleepy,Pine,Herbal,Peppery,"Diamond OG is a precious gem of a strain that patients love for its potent and long-lasting effects. This strain induces full-body relaxation that may help temper pain and muscle spasms before settling into an overall laziness. It can leave you mentally euphoric in smaller doses, but it’s definitely not one for times when work or even wakefulness needs to happen. Diamond OG is the result of an unknown strain crossed with OG Kush and has the familiar OG aroma of citrus-pine supported by fuel undertones. These sparkling nugs will be condensed and have a strong odor; they’re definitely a beauty to show off. ",null,Relaxed,68%,Sleepy,59%,Euphoric,46%,Happy,44%,Hungry,29%,Stress,42%,Pain,38%,Insomnia,32%,Anxiety,28%,Depression,25%,Dry mouth,25%,Dry eyes,17%,Dizzy,6%,Paranoid,6%,Anxious,2%
+Indica,True OG,Sleepy,Herbal,Citrus,Peppery,"True OG is a popular indica strain that was originally discovered in Southern California, where the term “OG” originally meant “ocean grown.” Bred with genetics from the very popular OG Kush, True OG is potent enough for mellow, lasting effects combined with a more focused head high. Flowers have a pungent, crisp citrus and evergreen scent. True OG has snagged the 2nd place indica spot in every High Times Medical Cup since 2010.",null,Relaxed,68%,Happy,55%,Euphoric,51%,Sleepy,38%,Uplifted,35%,Stress,37%,Anxiety,31%,Pain,28%,Depression,26%,Insomnia,25%,Dry mouth,32%,Dry eyes,23%,Dizzy,5%,Headache,4%,Anxious,3%
+Indica,Triangle Kush,Tingly,Herbal,Citrus,Peppery,"Triangle Kush is an indica originating in Florida, named after the state's three cannabis-producing capitals: Jacksonville, Miami, and Tampa. Indoor or outdoor grows are low yielders, but clear, active effects stimulating creativity and discussion drive this strain's production. Flowers are expected at around 70 days.",null,Relaxed,68%,Euphoric,52%,Happy,49%,Uplifted,34%,Sleepy,31%,Stress,27%,Anxiety,24%,Depression,24%,Insomnia,22%,Pain,21%,Dry mouth,17%,Dry eyes,11%,Dizzy,10%,Headache,5%,Anxious,3%
+Indica,White Tahoe Cookies,Aroused,Peppery,Citrus,Herbal,"White Tahoe Cookies is an indica-dominant strain created by Kush4Breakfast and distributed by Archive Seed Bank. This strain is a blend of The White, Tahoe OG, and an unknown Girl Scout Cookies cut, and exemplifies attributes of each in trichome coverage, effect, and aroma. The GSC bouquet has been enhanced through this cross, offering up sweeter, hashier notes with distant OG undertones. Its restful effects pile on with each hit, weighing the consumer to their seat while alleviating minor pain and anxiety.",null,Relaxed,77%,Happy,55%,Euphoric,43%,Sleepy,35%,Uplifted,26%,Stress,28%,Depression,24%,Pain,21%,Anxiety,20%,Insomnia,19%,Dry mouth,19%,Dry eyes,7%,Paranoid,5%,Headache,4%,Anxious,3%
+Indica,Blue Zkittlez,Aroused,Herbal,Pine,Peppery,"Blue Zkittlez by Dying Breed Seeds is an indica-dominant cross of Blue Diamond and Zkittlez. This odoriferous flower offers a terpene profile of tart citrus, sweet earth, and wildflowers. The physical effects of this strain are mellow and moderately sedating, igniting appetite while weighing on the limbs. Its strong physical effects and uplifting mental high make it a perfect end-of-the-day strain and a nice match for folks contending with stress, restlessness, and pain.",null,Relaxed,65%,Happy,50%,Hungry,32%,Uplifted,31%,Euphoric,30%,Depression,31%,Stress,31%,Anxiety,28%,Pain,23%,Lack of appetite,16%,Dry mouth,17%,Dry eyes,10%,Dizzy,3%,Anxious,2%,Headache,2%
+Indica,Monster Cookies,Sleepy,Peppery,Citrus,Hoppy,"Monster Cookies is a indica strain made by crossing Girl Scout Cookies and Granddaddy Purple. Monster Cookies delivers a jarring dose of euphoria and relaxation. Its aroma is dominated by earthy notes, enriched by a grape and berry scent passed on by Granddaddy Purple. Hues of purple and green weave together under a silver blanket of crystal trichomes, colors that continue to darken with maturation. Calming sedation wells up over time, making this strain ideal for late night use. ",null,Relaxed,83%,Happy,62%,Euphoric,54%,Sleepy,47%,Uplifted,35%,Stress,37%,Pain,34%,Anxiety,32%,Insomnia,28%,Depression,27%,Dry mouth,22%,Dry eyes,9%,Dizzy,3%,Paranoid,3%,Anxious,1%
+Indica,Blackwater,Sleepy,Herbal,Peppery,Citrus,"Blackwater is an indica strain typically bred from Mendo Purps and San Fernando Valley OG Kush. Its round, compact buds take on a deep purple color and a sweet grape aroma that blends with subtle undertones of lemon and pine. What begins as a mellow and euphoric cerebral experience melts down to the rest of the body in a head-to-toe euphoric calm that relieves stress and anxiety. Patients have also reported its success in treating pain, appetite loss, and multiple sclerosis. This strain is recommended for late-night consumption as it can cause mental cloudiness and detract from productivity. Blackwater has a flowering time of 8 to 10 weeks and produces moderate yields in indoor, outdoor, and greenhouse gardens. The 2014 Los Angeles Cannabis Cup awarded Blackwater 3rd place in the indica category.",null,Relaxed,83%,Sleepy,52%,Happy,45%,Euphoric,44%,Hungry,31%,Pain,39%,Stress,38%,Insomnia,32%,Anxiety,29%,Depression,20%,Dry mouth,24%,Dry eyes,13%,Dizzy,5%,Paranoid,4%,Anxious,4%
+Indica,Sensi Star,Sleepy,Herbal,Peppery,Citrus,"Sensi Star by Paradise Seeds is a legendary indica strain that is renowned worldwide for its powerful full-body effects and subtle cerebral invigoration. Crystal trichomes sparkle like a constellation of stars against this indica’s dark green and purple coloration, reflecting a potency worthy of placement in the 1999, 2000, and 2005 High Times Cannabis Cups. Her stunning results at maturation have also won the hearts of growers who cultivate both indoor and out in either hydroponic or soil methods. ",null,Relaxed,65%,Happy,49%,Euphoric,46%,Sleepy,43%,Uplifted,34%,Stress,41%,Pain,38%,Anxiety,36%,Insomnia,29%,Depression,24%,Dry mouth,34%,Dry eyes,20%,Dizzy,10%,Paranoid,7%,Headache,4%
+Indica,Mango,Hungry,Peppery,Citrus,Herbal,"The Mango cannabis strain has been around since the early 1960s. In 1991, it was crossed with KC 33 to give us the current Mango strain. Its buds have been known to grow very large, about the size of a softball, and can be up to a foot and a half in length. The foliage turns to a deep red/purple color with a smell and taste of sweet mango. Mango takes 9 to 11 weeks to flower.",null,Happy,57%,Relaxed,57%,Euphoric,46%,Hungry,36%,Sleepy,31%,Stress,42%,Pain,31%,Anxiety,30%,Depression,23%,Insomnia,20%,Dry mouth,35%,Dry eyes,20%,Dizzy,6%,Paranoid,5%,Headache,3%
+Indica,Face Off OG,Sleepy,Herbal,Citrus,Peppery,"The story of Face Off OG begins in the late 1990s in California when Archive Seeds was gifted with the seeds of an exceptional OG Kush phenotype. This 70/30 indica-dominant hybrid shares its name with the 1997 movie in which Nicolas Cage and John Travolta literally swap faces (“I want to take his face…off!”), and the experience this strain has to offer could arguably be compared to losing your face. Dizzying euphoria goes straight to the head in an intensely psychoactive experience best reserved for veteran consumers. Its crushing full-body effects make this strain a great choice for consumers attending to physical discomfort or for relaxing on a lazy weekend.",null,Relaxed,78%,Euphoric,56%,Happy,53%,Sleepy,46%,Uplifted,27%,Pain,46%,Stress,40%,Depression,36%,Insomnia,31%,Anxiety,31%,Dry mouth,32%,Dizzy,15%,Dry eyes,13%,Anxious,3%,Headache,2%
+Indica,Godfather OG,Sleepy,Herbal,Peppery,Hoppy,"Dubbed “The Don of All OGs,” this strain has quite a name to live up to. A popular medical strain in Southern California, Godfather OG, like many other OG strains, is often recommended for insomnia and pain due to its sedative indica properties. The Don is a result of crossing XXX OG and Alpha OG, and there is a kushy spiciness in its scent coupled with some subtle grape notes. Godfather OG is powerful; with THC levels that have been measured as high as 28%, this strain is an offer you can’t refuse. Godather OG won 1st Place for Best Indica at the 2013 High Times Cannabis Cup in Los Angeles.  ",null,Relaxed,82%,Sleepy,60%,Happy,49%,Euphoric,45%,Hungry,40%,Insomnia,37%,Stress,37%,Pain,36%,Anxiety,28%,Depression,23%,Dry mouth,23%,Dry eyes,21%,Dizzy,7%,Anxious,5%,Paranoid,5%
+Indica,Romulan,Sleepy,Herbal,Peppery,Pine,"Romulan, named after the alien Star Trek race, is a powerful indica revered for its potent therapeutic qualities. Romulan lends itself to intense cerebral effects. Squat, pine-scented plants produce dense, frosty buds that have found their following among connoisseurs in the Pacific Northwest. A deep, sedating relaxation makes Romulan a favorite strain for patients treating muscle spasms and nerve damage. Many hybridized variations of Romulan exist, but nearly all can promise a full body calm with heavy intoxicating properties.",null,Relaxed,58%,Sleepy,53%,Happy,45%,Euphoric,43%,Hungry,28%,Stress,42%,Pain,41%,Insomnia,39%,Anxiety,29%,Depression,23%,Dry mouth,31%,Dry eyes,18%,Dizzy,8%,Headache,5%,Paranoid,5%
+Indica,Pre-98 Bubba Kush,Sleepy,Peppery,Citrus,Herbal,"Born in the days of grunge, The Spice Girls, and Y2K, Pre-98 Bubba Kush is a blast from the past. This strain provides consumers with a consistent heavy body sensation, making it a favorite for more than a decade. Pre-98 Bubba Kush is great for those looking for pain relief without feeling overwhelmed or incapacitated. Flowering at around 10 weeks, P-98 features a pungent, musky scent and coffee-like taste. This oldie but goodie might be just the thing when you’re looking to relax and unwind at the end of a long day.",null,Relaxed,70%,Happy,52%,Sleepy,47%,Euphoric,43%,Hungry,28%,Pain,40%,Stress,34%,Insomnia,34%,Anxiety,30%,Depression,22%,Dry mouth,26%,Dry eyes,12%,Dizzy,4%,Headache,3%,Paranoid,2%
+Indica,Black Domina,Sleepy,Herbal,Pine,Peppery,"Working with four prime examples of Cannabis Afghanica led Sensi Seeds to blend the world's finest indica genetics into a rapid-flowering, crystal-coated hybrid: Black Domina. Combining desirable features from the Northern Lights, Ortega, Hash Plant, and Afghani SA has made this strain equally suited to the needs of commercial growers, connoisseurs, and first-time cultivators. Black Domina delivers a spicy pepper aroma alongside overwhelming relaxation and sleepiness, making this strain ideal for late night use.",null,Relaxed,64%,Sleepy,55%,Happy,50%,Euphoric,45%,Hungry,33%,Stress,42%,Pain,37%,Insomnia,33%,Anxiety,31%,Depression,19%,Dry mouth,36%,Dry eyes,20%,Dizzy,10%,Paranoid,4%,Headache,3%
+Indica,Mr. Nice Guy,Sleepy,Herbal,Peppery,Citrus,"Mr. Nice is a cross between the legendary G13 strain and the Hash Plant. Previously unavailable since the '80s, Sensi Seed Bank has put this strain on the market again. It's named in honor of Howard Marks, the Oxford graduate who became one of the biggest cannabis smugglers of our time. After his time in federal prison Howard released his autobiography entitled ""Mr. Nice"". This indica-dominant plant has extremely dense buds with a sweet smell. Mr. Nice will creep up and provide you with a strong, mellow high.",null,Relaxed,60%,Happy,52%,Euphoric,50%,Sleepy,39%,Uplifted,37%,Stress,42%,Pain,35%,Anxiety,35%,Insomnia,26%,Depression,22%,Dry mouth,35%,Dry eyes,23%,Dizzy,8%,Paranoid,6%,Headache,6%
+Indica,Nuken,Relaxed,Herbal,Pine,Peppery,"The mostly indica Nuken is a Canadian strain bred by combining genetics from Kish (a cross of two Shishkaberry parents) and God Bud. Her even-keeled effects are delivered alongside a sweet, earthy aroma of fresh herbs and grass. While undeniably strong, Nuken typically leaves you functional enough to still enjoy hobbies and the company of friends. Nuken blooms with rounded, dense buds covered in a blanket of crystal resin veiling its sage hues.",null,Relaxed,79%,Happy,54%,Euphoric,49%,Uplifted,41%,Sleepy,34%,Pain,36%,Stress,35%,Anxiety,34%,Depression,26%,Insomnia,24%,Dry mouth,27%,Dry eyes,15%,Dizzy,6%,Headache,2%,Paranoid,2%
+Indica,Paris OG,Sleepy,Citrus,Peppery,Herbal,"Paris OG is an indica-dominant strain with calming effects that promote rest and relaxation. Rumor has it that Paris OG descends from Headband and Lemon OG, who together pass on a sweet blend of fruity, citrus flavors. With victories in multiple competitions including 1st place in the 2014 Michigan High Times' Cannabis Cup, Paris OG has undoubtedly secured itself a long-lasting reputation in the cannabis world.",null,Relaxed,69%,Sleepy,44%,Happy,42%,Euphoric,36%,Uplifted,26%,Stress,35%,Insomnia,33%,Pain,28%,Anxiety,24%,Depression,19%,Dry mouth,19%,Dry eyes,14%,Dizzy,4%,Paranoid,4%,Headache,3%
+Indica,Lavender,Sleepy,Peppery,Citrus,Herbal,"Built from strains around the world, Lavender by Soma Seeds has its origins from Super Skunk, Big Skunk Korean and Afghani Hawaiian. This strain, sometimes referred to as Lavender Kush, has dense buds that give off a floral and spicy aroma. It has a dark purple coloration at the ends of its leaves.",null,Relaxed,62%,Happy,46%,Euphoric,42%,Sleepy,41%,Uplifted,32%,Stress,38%,Pain,37%,Insomnia,33%,Anxiety,30%,Nausea,18%,Dry mouth,27%,Dry eyes,19%,Dizzy,6%,Paranoid,5%,Anxious,3%
+Indica,Donkey Butter,Happy,Peppery,Citrus,Herbal,"Donkey Butter by Exotic Genetix is a vivid naming of a pungent phenotype. Created from a Grease Monkey mother and a Triple OG father, this strain comes loaded with loud fuel-forward aromas intermixed with a fragrant dose of forest and earth. Donkey Butter is a heavy producer and expresses dark leaves with deep colors. This funky flower leans toward sedation, weighing heavy on the limbs and relaxing the mind. Its physical and mental dullness can blunt stress, pain, and the pangs of daily living.",null,Relaxed,66%,Happy,63%,Euphoric,33%,Sleepy,30%,Uplifted,30%,Stress,36%,Pain,33%,Depression,22%,Anxiety,22%,Headaches,16%,Dry mouth,22%,Anxious,8%,Dry eyes,8%,Dizzy,2%,Paranoid,2%
+Indica,Star Killer,Sleepy,Herbal,Peppery,Citrus,"Star Killer, winner of Best Hybrid Flower at the 2016 Colorado Cannabis Cup, is a 70% indica-dominant hybrid that crosses Mazar x Blueberry OG and Rare Dankness #2. The dense, purple buds offer a sweet, lemon flavor, and aid in treating pain, insomnia, AIDS, PTSD, and Gastrointestinal Disorder. Medium to high yields can be achieved both indoors and outdoors, with a flowering time of 65 days.",null,Relaxed,80%,Happy,52%,Euphoric,52%,Sleepy,48%,Uplifted,29%,Stress,46%,Anxiety,42%,Pain,39%,Depression,38%,Insomnia,33%,Dry mouth,23%,Dry eyes,13%,Dizzy,5%,Anxious,3%,Paranoid,3%
+Indica,Vanilla Kush,Sleepy,Fruity,Peppery,Pine,"This indica strain comes from Barney’s Farm in Amsterdam and clinched 2nd place overall at the 2009 High Times Cannabis Cup for the coffee shop and seed company. Bred from Afghan and Kashmir strains, this Kush beauty is a gift to the senses with her notes of vanilla, lavender, and a hint of citrus. Plants flower in 8 weeks and produce large, soft flowers that are light green with hints of orange. ",null,Relaxed,67%,Happy,50%,Sleepy,48%,Euphoric,47%,Uplifted,30%,Stress,39%,Insomnia,35%,Anxiety,34%,Pain,32%,Depression,22%,Dry mouth,35%,Dry eyes,21%,Dizzy,7%,Headache,5%,Paranoid,4%
+Indica,Diablo,Tingly,Herbal,Peppery,Citrus,"Bred from Grapefruit, Blueberry and South African Sativa, the Diablo cannabis strain announces itself with a sweet aroma. This indica expresses purple hues in its flowers, along with fruity and spicy flavors. Diablo has an indoor flowering time of 6-7 weeks and took second place at the 2002 BC Harvest Cup in the outdoor category.",null,Relaxed,57%,Happy,47%,Euphoric,42%,Sleepy,31%,Uplifted,30%,Stress,35%,Pain,32%,Anxiety,30%,Insomnia,27%,Depression,21%,Dry mouth,29%,Dry eyes,17%,Dizzy,7%,Paranoid,6%,Headache,4%
+Indica,Afgoo,Sleepy,Herbal,Minty,Peppery,"Afgoo, also known as Afgooey, is a potent indica-dominant strain that is believed to descend from Afghani and Maui Haze. This strain may provide some uplifting creativity in smaller doses, but is generally reported to be relaxing and sleepy. Growers hoping to cultivate Afgoo may have a better chance of success indoors, but this indica can also thrive in Mediterranean climates outdoors.",null,Relaxed,53%,Sleepy,47%,Happy,46%,Euphoric,46%,Hungry,27%,Stress,39%,Insomnia,37%,Pain,34%,Anxiety,29%,Depression,20%,Dry mouth,35%,Dry eyes,19%,Dizzy,8%,Paranoid,5%,Headache,3%
+Indica,Remedy,Relaxed,Herbal,Pine,Peppery,"Remedy, a cross between Cannatonic and Afghan Skunk, is a high-CBD strain that induces little to no psychoactive effects. Yellow-tinted buds hide under a sheath of crystal trichomes and carry a lemon-pine scent. Upon inhaling the sweet, floral notes of Remedy, the consumer is lifted into a state of mellow relaxation that differs greatly from the jarring experience induced by high THC strains. Patients looking to medicate without the pronounced head and body effects may turn to Remedy to treat seizures, pain, autism, inflammation, and anxiety disorders. Growers hoping to cultivate this highly medicinal strain should allow a 6 to 8 week flowering time in indoor gardens.",null,Relaxed,68%,Happy,41%,Focused,29%,Uplifted,28%,Sleepy,24%,Pain,43%,Stress,36%,Anxiety,35%,Inflammation,23%,Headaches,21%,Dry mouth,9%,Anxious,3%,Headache,3%,Dry eyes,2%,Dizzy,0%
+Indica,Jesus OG,Focused,Peppery,Citrus,Hoppy,"Jesus OG was bred by Subcool's The Dank as the not-so-immaculate conception of Hell's OG and Jack the Ripper (talk about an “unholy” parentage). Jesus OG proves to be a godsend for growers and produces tall plants and heavy yields. Consumers enjoy the lemony kush aroma of this indica-dominant cross, along with heavy effects that relax the body while leaving the mind functional and clear.",null,Happy,56%,Euphoric,53%,Uplifted,49%,Relaxed,48%,Focused,40%,Stress,31%,Depression,28%,Anxiety,25%,Pain,22%,PTSD,14%,Dry mouth,22%,Dry eyes,12%,Anxious,6%,Paranoid,5%,Dizzy,4%
+Indica,Cookie Monster,Hungry,Peppery,Hoppy,Citrus,"Cookie Monster is a 2014 Seattle Cannabis Cup winner that blends the West Coast royalty, Girl Scout Cookies, and the legendary powerhouse, OG Kush. This combination yields dense frosted buds with hints of purple and orange hairs throughout. Cookie Monster pushes the boundaries of Cookies’ medical uses and leans toward medium-to-full sedation. Use Cookie Monster to reduce physical discomfort, indigestion, or before bed to jumpstart your dream machine.   ",null,Relaxed,80%,Happy,60%,Euphoric,51%,Sleepy,39%,Hungry,36%,Pain,37%,Stress,35%,Anxiety,33%,Insomnia,28%,Lack of appetite,20%,Dry mouth,23%,Dry eyes,14%,Dizzy,4%,Anxious,3%,Paranoid,3%
+Indica,Hardcore OG,Relaxed,Citrus,Herbal,Peppery,"An indica-dominant cross between Big Bud and DJ Short Blueberry, Hardcore OG is a California strain bred with the stalwart cannabis veteran in mind. Its dense, pungent buds produce thick coats of resin that can be extracted for potent (and we mean potent) concentrates. The weight of this sedating indica sinks throughout the body, submerging stress, pain, and other ailments under its crushing THC content.",null,Relaxed,45%,Happy,28%,Sleepy,24%,Euphoric,21%,Focused,16%,Stress,26%,Pain,19%,Depression,15%,Headaches,15%,Insomnia,13%,Dry mouth,16%,Dry eyes,13%,Dizzy,3%,Headache,2%,Anxious,1%
+Indica,3X Crazy,Relaxed,Herbal,Peppery,Citrus,"Also known as Optimus Prime, the indica-dominant 3X Crazy is a three-way cross between OG Kush, Bubba Kush, and Granddaddy Purple. Its aroma is comprised of sweet grape, spicy pepper, and earthy notes passed on by its Bubba Kush parent. This indica can cover the consumer in soothing full-body effects, but not before a brief phase of clear-headed cerebral sizzle. The relaxing effects induced by 3X Crazy may potentially assist pain, spasms, tension, and insomnia.",null,Relaxed,82%,Happy,55%,Euphoric,48%,Sleepy,39%,Uplifted,32%,Stress,40%,Insomnia,32%,Pain,32%,Depression,27%,Anxiety,22%,Dry mouth,23%,Dry eyes,15%,Anxious,3%,Dizzy,3%,Paranoid,1%
+Indica,Black D.O.G.,Relaxed,Citrus,Peppery,Herbal,"Black D.O.G. by Humboldt Seed Organization is a weighty mixture of two northern California favorites, Blackberry Kush and Emerald Headband. This medium-sized plant expresses dark, nearly black leaves that give way to sticky, dense buds. Its aroma is a mixture of grape, berries, and oil while the effects tend to be relaxing with just a touch of cerebral stimulation. Black D.O.G. has a rapid flowering time of 48-55 days.",null,Relaxed,71%,Happy,44%,Sleepy,37%,Euphoric,33%,Hungry,22%,Stress,37%,Insomnia,26%,Depression,24%,Pain,20%,Anxiety,17%,Dry mouth,17%,Dry eyes,8%,Dizzy,6%,Anxious,4%,Paranoid,4%
+Indica,Strawberry Fields,Relaxed,Fruity,Herbal,Pine,"Strawberry Fields by Sagarmatha Seeds is an indica-dominant hybrid strain that takes the flavorful Strawberry Cough and crosses it with an undisclosed indica parent. This strain is destined for consumers who love that strawberry aroma, but would prefer something more tranquilizing than Strawberry Cough. Its heavier effects also make Strawberry Fields a better choice for patients treating pain, insomnia, and appetite loss.",null,Relaxed,70%,Happy,54%,Euphoric,41%,Uplifted,30%,Sleepy,27%,Stress,33%,Pain,26%,Anxiety,23%,Depression,20%,Insomnia,19%,Dry mouth,15%,Dry eyes,6%,Headache,5%,Anxious,1%,Paranoid,1%
+Indica,Pennywise,Relaxed,Herbal,Pine,Fruity,"Pennywise is a high-CBD indica cross between Harlequin and Jack the Ripper, a combination that lends this strain its killer clown name. Four phenotypes of this Stephen King-inspired strain exist, some of which have fingerlike buds while others appear more round. Notes of coffee and pepper lift from the purple-fringed flowers with undertones of lemon and bubblegum. Rich in the therapeutic compound CBD, Pennywise is especially effective in treating arthritis, PTSD, epilepsy, neurological disorders, and cancer symptoms. It contains a 1:1 ratio of CBD and THC, so the psychoactive effects are milder and more relaxing. Jack the Ripper’s cerebrally focused effects are detectable in Pennywise’s genes as euphoria and mental clarity take over with an invigorating buzz. Pennywise flowers in 60 to 67 days and is suitable for either indoor or outdoor gardens.",null,Relaxed,80%,Happy,50%,Uplifted,37%,Euphoric,33%,Sleepy,33%,Anxiety,41%,Pain,40%,Stress,39%,Depression,32%,Inflammation,21%,Dry mouth,16%,Dry eyes,11%,Dizzy,4%,Headache,4%,Anxious,3%
+Indica,Purple Hindu Kush,Sleepy,Citrus,Peppery,Pine,"A cross between Hindu Kush and Purple Afghani, Purple Hindu Kush is almost pure indica and offers the kind of high one would expect from its lineage: deep relaxation along with pronounced pain relief. Featuring dense lavender flowers with bright orange pistils and a thick blanket of trichomes, as well as a pungent sour grape and citrus flavor, PHK will be sure to please indica lovers everywhere.  ",null,Relaxed,71%,Sleepy,51%,Happy,41%,Euphoric,36%,Hungry,24%,Stress,29%,Insomnia,26%,Pain,25%,Anxiety,23%,Depression,20%,Dry mouth,19%,Dry eyes,9%,Dizzy,5%,Anxious,4%,Paranoid,2%
+Indica,Raspberry Kush,Sleepy,Herbal,Citrus,Peppery,"Raspberry Kush is a great-tasting indica strain whose raspberries and cream aroma will keep you coming back for more. This strain may leave newer consumers feeling pretty lazy, but many find this Kush to be a creative flower, making it great for music, art, and talking with friends.",null,Relaxed,60%,Euphoric,50%,Happy,49%,Uplifted,35%,Sleepy,33%,Stress,43%,Pain,36%,Anxiety,31%,Depression,26%,Insomnia,23%,Dry mouth,26%,Dry eyes,17%,Dizzy,4%,Paranoid,4%,Headache,3%
+Indica,Herijuana,Sleepy,Herbal,Citrus,Peppery,"Originally bred by Woodhorse Seeds, Herijuana is a combination of the highly regarded Humboldt County Afghan indica called Petrolia Headstash and an outdoor hybrid from Kentucky known only as the “Killer New Haven” strain. This combo was worked by breeders for 15 generations to create an inbred line (IBL), meaning that most of the seeds will grow into plants that are nearly identical. Herijuana produces large dense flowers on an open, stretchy plant, with aromas and flavors ranging from spicy earth and sandalwood to hashy fruit. The high provides a heavy, almost numbing feeling. ",null,Relaxed,63%,Sleepy,59%,Euphoric,40%,Happy,40%,Tingly,28%,Pain,49%,Insomnia,44%,Stress,41%,Anxiety,34%,Depression,20%,Dry mouth,33%,Dry eyes,19%,Dizzy,6%,Paranoid,6%,Headache,4%
+Indica,Shark Shock,Relaxed,Pine,Herbal,Peppery,Shark Shock's origin is White Widow crossed with Skunk #1.  Has a fruity taste and carries intense stoney effects.  The plant will grow into a densely compacted white skunk with extreme aromas.  ,null,Relaxed,78%,Happy,50%,Euphoric,38%,Uplifted,34%,Sleepy,31%,Pain,45%,Stress,42%,Anxiety,34%,Depression,23%,Inflammation,21%,Dry mouth,31%,Dry eyes,15%,Dizzy,7%,Headache,4%,Anxious,3%
+Indica,Chemo,Sleepy,Peppery,Herbal,Citrus,"Rumor has it that Chemo’s beginnings stretch back to the 1970s in Canada where this heavy indica was allegedly developed to treat the side effects of chemotherapy. Another name for this strain is “UBC Chemo” in reference to the university in which Chemo is said to have been conceived. Chemo’s genetics is carried on by Jordan of the Islands, whose rendition is best known for its subtle woody aroma and potent medicinal effects perfect for patients treating nausea, appetite loss, pain, and sleeplessness. ",null,Relaxed,84%,Sleepy,74%,Hungry,48%,Happy,42%,Euphoric,38%,Pain,43%,Insomnia,42%,Stress,40%,Lack of appetite,26%,Anxiety,26%,Dry mouth,30%,Dry eyes,16%,Dizzy,11%,Anxious,5%,Paranoid,4%
+Indica,Phantom OG,Giggly,Peppery,Citrus,Hoppy,"Phantom OG is an indica-dominant strain that begins with heightened energy and ends with a crash of full-body relaxation. Beyond its OG Kush genes, Phantom OG’s lineage is largely unknown, although many claim it’s related to the “Planetary Kush” series which includes Earth OG, Jupiter OG, Mars OG, and others. Its aroma is a rich combination of pine and lemon accented by a subtle menthol flavor. The initial euphoric jolt launches you into a happy, dreamy state of mind with fits of giggles and fixated concentration. Over time, you may notice some mental jamming, absent-mindedness, and impending sleepiness. Phantom OG is a great choice for patients treating insomnia, and others have reported its success in pain, appetite loss, and arthritis.",null,Relaxed,74%,Happy,61%,Euphoric,52%,Sleepy,47%,Uplifted,39%,Pain,25%,Stress,24%,Insomnia,22%,Anxiety,20%,Depression,14%,Dry mouth,30%,Dry eyes,14%,Dizzy,6%,Paranoid,6%,Headache,5%
+Indica,Black Lime,Euphoric,Herbal,Pine,Peppery,"From Aficionado Seeds comes Black Lime Special Reserve, an indica strain that descends from Woodman Canyon Oil Can, Lime Afghani, Northern Lights, Purple Kush, and Chemdawg Special Reserve. Flavors of pine, lemon, and black pepper are ushered in alongside uplifting euphoria, leaving you feeling tingly and relaxed.",null,Relaxed,73%,Euphoric,59%,Happy,47%,Uplifted,33%,Sleepy,28%,Stress,37%,Depression,26%,Anxiety,25%,Pain,19%,Insomnia,17%,Dry mouth,19%,Dry eyes,12%,Anxious,2%,Headache,2%,Paranoid,2%
+Indica,Jedi Kush,Tingly,Herbal,Peppery,Pine,"Cali Connection’s Jedi Kush brings together the forces of Death Star and SFV OG Kush, an indica alliance that will awaken both mind and body. Jedi Kush’s timid aroma isn’t fully realized until a bud is cracked open, releasing a complex fusion of sour skunk and tangy diesel. Dreamy euphoria blankets the mind, a sensation that builds over time into bolting cerebral energy. This lethargy-free strain is a great way for patients to get a powerful dose of cannabinoids during the day while treating ailments like pain, PTSD, depression, stress, headaches, and appetite loss. Jedi plants show resilience in outdoor gardens but also thrive indoors with a flowering time of 8 to 9 weeks.",null,Relaxed,80%,Euphoric,56%,Happy,55%,Sleepy,46%,Uplifted,40%,Stress,36%,Pain,35%,Anxiety,30%,Depression,22%,Insomnia,20%,Dry mouth,27%,Dry eyes,19%,Dizzy,8%,Headache,5%,Anxious,2%
+Indica,DJ Short Blueberry,Sleepy,Herbal,Pine,Peppery,"DJ Short Blueberry is a living legend. This is, was, and forever will be the west coast Blueberry varietal. The strain is sought-after and has been spliced into many different hybridized strains. DSBs genetics stem from DJ Short’s travels through Central America and Southeast Asia, where he gathered robust landrace genetics that would later blossom into some of the most revered cannabis strains on the planet. Finding a true cut of DSB is harder than it sounds, but if you do, savor it: You will be igniting a piece of cannabis history. Expect beautiful sedative effects that are second only to the incredible berry flavor of this flower. ",null,Relaxed,70%,Happy,59%,Euphoric,53%,Uplifted,46%,Sleepy,37%,Stress,40%,Pain,39%,Anxiety,33%,Depression,29%,Insomnia,29%,Dry mouth,24%,Dry eyes,15%,Dizzy,5%,Headache,3%,Anxious,1%
+Indica,Whitewalker OG,Sleepy,Citrus,Herbal,Peppery,"Whitewalker OG (not to be confused with White Walker Kush) by Gold Coast Collection is an indica variation of the renowned SFV OG Kush. Wrapped in a sparkling coat of crystal trichomes, Whitewalker OG wears its potency like a crown. Not surprisingly, this Los Angeles native earned first place in the 2013 High Times Amsterdam Cannabis Cup and is cherished to this day for its ability to lift the mood with swiftness. Its heavy resin production is treasured by extract artists, and commercial growers will appreciate the high yields offered by this OG phenotype.",null,Relaxed,72%,Happy,51%,Euphoric,41%,Sleepy,41%,Uplifted,34%,Pain,37%,Stress,35%,Depression,28%,Anxiety,24%,Insomnia,22%,Dry eyes,15%,Dry mouth,15%,Paranoid,7%,Anxious,4%,Headache,2%
+Indica,Extreme Cream,Hungry,Citrus,Herbal,Peppery,"Extreme Cream by Exotic Genetix is the pungent cross between Extreme OG and Cookies & Cream. This strain develops deep purple colas dusted with trichomes and emits a strong, earthy aroma that is somehow creamy on the nose and buttery on the palate. Extreme Cream’s effects are uplifting for some, offering mood elevation that may abate anxiety and spur conversation. Others may experience tranquilizing effects alongside euphoria, appetite stimulation, and couch lock.   ",null,Relaxed,84%,Happy,63%,Sleepy,45%,Euphoric,43%,Hungry,43%,Pain,32%,Stress,32%,Anxiety,28%,Depression,26%,Insomnia,23%,Dry mouth,28%,Dry eyes,17%,Dizzy,10%,Anxious,2%,Paranoid,2%
+Indica,Incredible Bulk,Sleepy,Herbal,Peppery,Citrus,"Incredible Bulk is a mixture of three notable indicas. Big Bud combines with Super Skunk and Green Spirit to create the sweet earthy flavors of hash that usher in Incredible Bulk’s relaxing effects. Its sedating effects make Incredible Bulk a great choice to help you unwind at the end of the day. Originally bred by Dr. Krippling for its heavy yields and ease of growth, Incredible Bulk is a very stable plant that makes a compelling case for indoor cultivation. The buds are known to explode in size when grown hydroponically.",null,Relaxed,85%,Happy,64%,Sleepy,57%,Euphoric,50%,Hungry,38%,Insomnia,33%,Stress,31%,Anxiety,31%,Depression,29%,Pain,27%,Dry mouth,42%,Dry eyes,16%,Dizzy,11%,Anxious,5%,Paranoid,5%
+Indica,Mars OG,Sleepy,Peppery,Citrus,Herbal,"Mars OG is one spacey indica. Coming out of the California Bay Area, Mars OG has been given its planetary name in reference to its growing conditions. Planetary strains refer to strains which began indoors and were moved outdoors to complete the grow cycle in more natural conditions. The end result is a dense bud with a high flower-to-leaf ratio that produces a heavy-handed body buzz. With a hearty, thick taste and pungent smell, Mars OG will take away your pains and easily put you to sleep.",null,Sleepy,47%,Relaxed,45%,Happy,38%,Euphoric,34%,Uplifted,29%,Stress,34%,Insomnia,33%,Pain,32%,Anxiety,22%,Depression,15%,Dry mouth,32%,Dry eyes,18%,Dizzy,6%,Headache,3%,Paranoid,1%
+Indica,Plushberry,Relaxed,Pine,Herbal,Peppery,"Plushberry, a cross between Black Cherry Soda and Space Queen, is an indica-dominant strain bred by TGA Seeds. The Black Cherry Soda lends this strain an aromatic berry scent, while the Space Queen genetics promote heavy resin production. Plushberry induces a deep relaxation in the mind and body, with calming qualities that melt away stress. There are two main phenotypes of Plushberry: one that grows smaller, pink-tinted plants, and another with bulkier, more indica-like formations. Plushberry flowers in 55 to 65 days with medium to heavy yields. ",null,Relaxed,77%,Happy,51%,Euphoric,47%,Sleepy,35%,Uplifted,35%,Stress,33%,Pain,28%,Anxiety,28%,Depression,28%,Insomnia,19%,Dry mouth,21%,Dry eyes,12%,Anxious,2%,Headache,2%,Paranoid,2%
+Indica,Master OG,Hungry,Peppery,Citrus,Herbal,"Master OG is an indica-dominant strain from Cabin Fever Seed Breeders. This offspring of Master Kush and Empress Kush produces large, dense buds that tend to bend branches under the weight. This colorful, pine-scented flower is an ideal match for those suffering pain, nausea, and lack of sleep.  ",null,Relaxed,69%,Sleepy,54%,Hungry,47%,Uplifted,33%,Euphoric,32%,Stress,42%,Insomnia,37%,Pain,35%,Lack of appetite,33%,Depression,27%,Dry mouth,37%,Dry eyes,20%,Anxious,5%,Dizzy,5%,Paranoid,3%
+Indica,Northern Lights #5,Euphoric,Pine,Fruity,Herbal,"Along with Haze and Skunk #1, Northern Lights is among the most influentials strains of all time.  The #5 strain was first entered into competition in 1989.  The strain quickly dominated the Cannabis Cup, winning in '89, '90, and '92.",null,Euphoric,55%,Happy,50%,Relaxed,46%,Uplifted,42%,Creative,31%,Stress,42%,Anxiety,36%,Depression,28%,Pain,28%,Insomnia,16%,Dry mouth,32%,Dry eyes,18%,Paranoid,6%,Headache,4%,Dizzy,2%
+Indica,Pine Tar,Hungry,Herbal,Peppery,Citrus,Pine Tar Kush stems from a family of pure indica genetics native to Pakistan. This cannabis strain is nearly unaltered from its original genetic form and expresses itself with bright green hues and a skunky aroma. The rich Kush flavor of pine mixes with sweet undertones that give way to Pine Tar Kush’s calming yet talkative buzz.,null,Relaxed,72%,Euphoric,63%,Happy,58%,Hungry,50%,Uplifted,44%,Depression,33%,Stress,33%,Pain,30%,Anxiety,30%,Lack of appetite,27%,Dry mouth,44%,Dry eyes,16%,Headache,11%,Paranoid,11%,Anxious,8%
+Indica,Cactus,Tingly,Fruity,Herbal,Pine,"First bred by Jordan of the Islands, Cactus is an indica cross between Afghani and Northern Lights and is named after its vague resemblance to the pear cactus. Cactus buds are conic with knobby formations and emit an organic earthy aroma with citrus notes. This strain is known to be an adept painkiller, providing relief to aches and sore muscles as well as spasms and anxiety. Many describe Cactus as having uplifting, energizing effects. It has become a popular staple among the connoisseurs of Seattle, and was among the first place winners in the 2012 High Times Cannabis Cup.",null,Relaxed,68%,Happy,54%,Euphoric,45%,Uplifted,40%,Sleepy,29%,Pain,43%,Stress,34%,Depression,22%,Insomnia,22%,Anxiety,22%,Dry mouth,19%,Dry eyes,13%,Paranoid,6%,Dizzy,5%,Anxious,4%
+Indica,Salmon River OG,Relaxed,Citrus,Pine,Floral,"Salmon River OG is an indica-dominant strain from Oregon breeders Dynasty Genetics, who combined a Pre-98 Bubba Kush clone with a carefully selected Blue Heron male, creating a potent and easy-to-grow plant that finishes flowering in 7-8 weeks. The Salmon River OG may provide excellent pain relief and a heavy indica buzz; it is recommended that novice users take care not to overindulge. Dynasty has noted three main phenotypes in this cross, all with a similar terpene profile: a strong berry scent, underlined with hints of chocolate, coffee, lemon, and gasoline, and a similar taste when vaporized or smoked.",null,Relaxed,75%,Sleepy,39%,Euphoric,36%,Happy,31%,Uplifted,23%,Anxiety,33%,Stress,31%,Depression,28%,Pain,28%,Insomnia,20%,Dry mouth,14%,Dry eyes,13%,Anxious,1%,Dizzy,1%,Headache,1%
+Indica,Cornbread,Hungry,Peppery,Herbal,Citrus,"Cornbread by Rare Dankness is an 80/20 indica-dominant hybrid strain that crosses Katsu Bubba Kush and Rare Dankness #2. Its aroma is a sweet mix of lemons and incense, and like a perfect appetizer, Cornbread is all you’ll need to invite the appetite before dinner. With heavy, tranquilizing effects that relax the body, Cornbread also makes a great nightcap as you transition into sleep.",null,Relaxed,77%,Happy,46%,Sleepy,45%,Euphoric,37%,Hungry,34%,Stress,34%,Insomnia,28%,Pain,27%,Anxiety,22%,Lack of appetite,18%,Dry mouth,19%,Dry eyes,11%,Anxious,4%,Dizzy,4%,Paranoid,3%
+Indica,Querkle,Sleepy,Herbal,Pine,Peppery,"A cross between Purple Urkle and Space Queen, Querkle from Subcool's The Dank is an 80/20 indica-dominant strain that carries a strong grape and berry aroma. Querkle blooms with vibrant lavender hues and a heavy dusting of crystal resin that blankets its bulky colas in a frost-like coat. Heavily euphoric and cerebral, Querkle may be used during the day but is ideal for evening use as it relaxes muscles and guides the mind into sleep.",null,Relaxed,60%,Happy,51%,Euphoric,48%,Sleepy,43%,Uplifted,39%,Stress,50%,Pain,43%,Anxiety,35%,Insomnia,33%,Depression,26%,Dry mouth,29%,Dry eyes,20%,Dizzy,6%,Anxious,3%,Paranoid,3%
+Indica,Bubba's Gift,Relaxed,Citrus,Peppery,Herbal,"Developed by Humboldt Seed Organization, Bubba’s Gift is a strain unlike any other. Despite being almost purely indica, this cross between Bubba Kush and God’s Gift produces functional and uplifting effects with a mild body high. Given its strong indica genetics, this sweet, fruity strain is surprisingly well-suited for daytime creative activities. Bubba’s Gift will flower in 6 weeks and can be grown indoors and outdoors.",null,Relaxed,104%,Happy,60%,Euphoric,58%,Sleepy,39%,Uplifted,30%,Stress,44%,Depression,25%,Anxiety,25%,Insomnia,23%,Headaches,18%,Dry mouth,23%,Dry eyes,16%,Dizzy,4%,Anxious,2%,Paranoid,2%
+Indica,Alien Rift,Hungry,Herbal,Pine,Peppery,"Bred by Ocean Grown Seeds, Alien Rift crosses Alien Abduction, Alien Dawg (""Ether"" cut), and Alien OG, and it was specifically backcrossed for better hash production. Alien Rift is certain to please the senses, with a tart scent of lemon and spice, and buds dense with trichomes. With that much extraterrestrial activity, this strain is out of this world! Use Alien Rift’s laid-back effects to curb stress and manage physical pain. ",null,Relaxed,87%,Happy,77%,Euphoric,57%,Hungry,47%,Uplifted,40%,Stress,52%,Anxiety,42%,Pain,37%,Depression,35%,Insomnia,35%,Dry mouth,17%,Dry eyes,12%,Anxious,7%,Paranoid,7%,Dizzy,2%
+Indica,Oregon Diesel,Happy,Peppery,Citrus,Pine,Oregon Diesel is an indica-dominant hybrid that combines NYC Diesel and Blackberry genetics in a blend bred by Homegrown Natural Wonders specifically for the Pacific Northwest climate. This strain was popularized by Oregrown as they hunted for quality genetics. Oregon Diesel is recommended for nighttime pain relief and its relaxing yet clear-headed effects will calm stress and help you avoid sleepless nights.,null,Relaxed,78%,Happy,69%,Euphoric,49%,Uplifted,40%,Sleepy,36%,Stress,32%,Anxiety,30%,Insomnia,27%,Depression,26%,Pain,24%,Dry mouth,21%,Dizzy,6%,Anxious,4%,Dry eyes,4%,Paranoid,1%
+Indica,Triple Cheese,Euphoric,Herbal,Peppery,Citrus,"One cheese, two cheese, Old Cheese crossed with Blue Cheese! Triple Cheese, by world-renowned breeder Barney’s Farm, brings classic Cheese genetics together with a sweet Cheese hybrid. This odoriferous union combines the earthy, cave-aged funk of Old Cheese and the sweet and savory bouquet of Blue Cheese, creating a one-of-a-kind terpene profile. Known to consistently reach 22% THC or higher, this manageable plant offers Cheese lovers new levels of complexity while preserving enjoyable effects.   ",null,Relaxed,112%,Euphoric,96%,Happy,68%,Sleepy,44%,Uplifted,40%,Pain,44%,Stress,40%,Depression,24%,Lack of appetite,24%,Anxiety,24%,Dry eyes,28%,Dry mouth,12%,Headache,8%,Anxious,4%,Dizzy,4%
+Indica,LA OG,Tingly,Herbal,Citrus,Peppery,LA OG is a potent variety of medical cannabis with an earthy taste and a powerful head and body high.,null,Relaxed,63%,Euphoric,55%,Happy,42%,Uplifted,38%,Sleepy,36%,Pain,53%,Stress,38%,Anxiety,34%,Insomnia,32%,Depression,18%,Dry mouth,32%,Dry eyes,16%,Anxious,10%,Paranoid,10%,Dizzy,8%
+Indica,Early Girl,Giggly,Pine,Herbal,Citrus,"Early Girl is the wallflower of cannabis strains since its introduction in the 1980s. Lovingly preserved by the breeders at Sensi Seeds, this strain is lazy and relaxed, nothing over the top. A 75/25 indica-dominant hybrid, Early Girl is a good one for those new to cannabis who would like relief from stress. Also a great strain for novice growers, it's compact, resilient, and has a particularly short flowering time of 7 to 8 weeks. Early Girl grows especially well outdoors, but won’t put up a fuss if she’s stuck inside.",null,Relaxed,49%,Euphoric,42%,Happy,38%,Hungry,35%,Giggly,33%,Pain,38%,Stress,33%,Anxiety,28%,Depression,20%,Insomnia,13%,Dry mouth,30%,Dry eyes,23%,Paranoid,10%,Dizzy,6%,Anxious,3%
+Indica,UW Purple,Sleepy,Herbal,Peppery,Citrus,"UW is a marijuana strain that comes with its own superhero origin story. Popular rumor has it that a clone was stolen from a certain Pacific Northwest university's medical research lab in the early nineties—in some versions by a rogue graduate student—and has since been a popular top-shelf indica. These dense, sticky buds show their university pride with purple coloring and are at the top of the class when it comes to potency. UW's powerful high is sedative and popular for pain relief and insomnia. A mix of tropical fruit and a little spice, the aroma also earns high marks.",null,Relaxed,82%,Sleepy,65%,Happy,53%,Euphoric,42%,Hungry,24%,Stress,46%,Pain,42%,Insomnia,35%,Anxiety,29%,Depression,20%,Dry mouth,25%,Dry eyes,15%,Headache,6%,Paranoid,4%,Anxious,2%
